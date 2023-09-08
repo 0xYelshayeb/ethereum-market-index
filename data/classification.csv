@@ -1,0 +1,695 @@
+Rank,data name,Ticker,id,Key Person,USP / notes,Economic Purpose,,Issuer Industry,,Technological Setup,,Legal Claim,,Issuer Type,,Regulatory Status EU,,Mode of Origination,,Type of Maximum Supply,,Consensus Mechanism,,Tax,,Multi Chain (Y/N)
+1,Tether,USDT,tether,,The Financial network of the future.,EEP21PP01USD,USD-Pegged Payment Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC32,Relative Rights Token,LIT61PV,Private Sector Legal Entity,REU51EM12,Non-Authorized Significant E-Money Token,EMO92,Sale,EMS82DC,Discretionary,Depends on the ledger,Depends on the ledger,RTA71,Conventional Asset Tokens,Y
+2,USD Coin,USDC,usd-coin,Prashant,Digital money for a digital age.,EEP21PP01USD,USD-Pegged Payment Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC32,Relative Rights Token,LIT61PV,Private Sector Legal Entity,REU51EM12,Non-Authorized Significant E-Money Token,EMO92,Sale,EMS82DC,Discretionary,Depends on the ledger,Depends on the ledger,RTA71,Conventional Asset Tokens,Y
+3,Uniswap,UNI,uniswap,Nick,aydi,EEP22TU03,Settlement and Governance Token,EIN06DF01,"Decentralized Exchanges, Markets and Market Making",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO93,Airdrop,EMS81,Inflationary*,Depends on the ledger,Depends on the ledger,RTA72,New Asset Token,Y
+4,Chainlink,LINK,chainlink,Albert,"Decentralized service for blockchain oracles, enabling smart contracts to connect transaction, payment system, and application securely through network of oracles.",EEP22TU02,Settlement and Access Token,EIN06DF04,"Decentralized Data, Oracles and Infrastructure",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM71PS,Proof of Stake,RTA72,New Asset Token,Y
+5,Wrapped Bitcoin,WBTC,wrapped-bitcoin,Magda,Wrapped Bitcoin (WBTC) is the first ERC20 token backed 1:1 with Bitcoin.,EEP23DV03,Other Derivative Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC32,Relative Rights Token,LIT62AL,Application Layer Protocol,REU51ZZ,Other In-Scope Crypto Asset,EMO94,Other,EMS82DC,Discretionary,Depends on the ledger,Depends on the ledger,RTA71,New Asset Token,Y
+6,Dai,DAI,dai,Marlene,"Dai can be used by anyone, anywhere, anytime.",EEP21PP01USD,USD-Pegged Payment Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC32,Relative Rights Token,LIT62AL,Application Layer Protocol,REU51EM12,Non-Authorized Significant E-Money Token,EMO94,Other,EMS82DC,Discretionary,Depends on the ledger,Depends on the ledger,RTA72,New Asset Token,Y
+7,UNUS SED LEO,LEO,leo-token,Magda,UNUS SED LEO is a token for use on iFinex trading platforms.,EEP22TU02,Settlement and Access Token,EIN06EX,"Exchange, Trading and Settlement",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82DF,Deflationary,TCM71PW,Proof of Work,RTA72,New Asset Token,Y
+8,Aave,AAVE,aave,Marlene,Open source and non-custodial liquidity protocol.,EEP22TU03,Settlement and Governance Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82DF,Deflationary,Depends on the ledger,Depends on the ledger,RTA72,New Asset Token,Y
+9,FTX Token,FTT,ftx-token,Jan,"FTX Token (FTT) is the backbone of the FTX ecosystem. FTX is a cryptocurrency derivatives exchange that offers futures, leveraged tokens, and OTC trading.",EEP22TU02,Settlement and Access Token,EIN06EX,"Exchange, Trading and Settlement",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82DF,Deflationary,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+10,SHIBA INU,SHIB,shiba-inu,Albert,ETH-based Doge killer memecoin with its own ecosystem (ShibaSwap).,EEP21UP,Unpegged Payment Token,EIN06DF01,"Decentralized Exchanges, Markets and Market Making",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT62DL,Distributed Ledger Protocol,REU51UT,Utility Token,EMO92,Sale,EMS82IF,Inflationary,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+11,Maker,MKR,maker,Jan,An Unbiased Global Financial System.,EEP22NT02,Governance Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82DC,Deflationary,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+12,Compound,COMP,compound-governance-token,Aavneet,A DeFi protocol that hosts lending pools to earn interest on various cryptocurrencies.,EEP22NT02,Governance Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+13,Amp,AMP,amp-token,Albert,Provide assurance through collateralization for B2B focused crypto transactions.,EEP22TU02,Settlement and Access Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+14,The Graph,GRT,the-graph,Jan,The Graph is an indexing protocol for querying networks like Ethereum and IPFS.,EEP22TU03,Settlement and Governance Token,EIN05DA01,"Artificial Intelligence (AI), Predictive Analytics, and Big Data",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82IF,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,N
+15,Huobi Token,HT,huobi-token,Marlene,Nnative token of the cryptocurrency exchange Huobi Global.,EEP22TU02,Settlement and Access Token,EIN06EX,"Exchange, Trading and Settlement",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82DF,Deflationary,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+16,Waves,WAVES,waves,Aavneet,Designed to enable users to create and launch custom crypto tokens.,EEP22TU02,Settlement and Access Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82DF,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+17,TrueUSD,TUSD,true-usd,Jan,The first regulated stablecoin fully backed by the US Dollar.,EEP21PP01USD,USD-Pegged Payment Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC32,Relative Rights Token,LIT61PV,Private Sector Legal Entity,REU51EM12,Non-Authorized Significant E-Money Token,EMO92,Sale,EMS82DC,Discretionary,Depends on the ledger,Depends on the ledger,RTA71,Conventional Asset Tokens,Y
+18,Chiliz,CHZ,chiliz,Albert,Allowing sports and e-sports enthusiasts to closely manage & engage with their favorite teams,EEP22TU02,Settlement and Access Token,EIN08ES,"Entertainment, Sports and Gaming",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+19,Celsius,CEL,celsius-degree-token,Jan,All-in-one banking and financial services platform for crypto users (lending-borrowing on crypto collateral),EEP22TU03,Settlement and Governance Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,N
+20,yearn.finance,YFI,yearn-finance,Magda,Yearn Finance is a suite of products in Decentralized Finance (DeFi) that is designed to generate yield on smart contract platforms like Ethereum.,EEP22NT02,Governance Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT62AL,Application Layer Protocol,REU51UT,Utility Token,EMO93,Airdrop,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,N
+21,Axie Infinity,AXS,axie-infinity,Marlene,Pok√©mon-inspired NFT trading and battling game.,EEP22TU03,Settlement and Governance Token,EIN08ES,"Entertainment, Sports and Gaming",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+22,Paxos Standard,PAX,paxos-standard,Aavneet,A fiat-collateralized stablecoin backed by USD in accounts held by the company at the U.S. depository institutions.,EEP21PP01USD,USD-Pegged Payment Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51EM12,Non-Authorized Significant E-Money Token,EMO92,Sale,EMS82DC,Discretionary,Depends on the ledger,Depends on the ledger,RTA72,New Asset Token,Y
+23,Synthetix,SNX,havven,Jan,"Synthetix is the backbone for derivatives trading in DeFi, allowing anyone, anywhere to gain on-chain exposure to a vast range of assets.",EEP22TU03,Settlement and Governance Token,EIN06DF03,"Decentralized Derivatives, Syntethic Assets and Insuarance",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+24,Decentraland,MANA,decentraland,Albert,"Create, explore and trade in the first-ever virtual world owned by its users.",EEP22TU03,Settlement and Governance Token,EIN08ES,"Entertainment, Sports and Gaming",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82DF,Deflationary,TCM72DS,Proof of Work,RTA72,New Asset Token,Y
+25,Quant,QNT,quant-network,Magda,"QNT is an Ethereum token that is used to power Quant Network's Overledger brand of enterprise software solutions, which aim to connect public blockchains and private networks.",EEP22TU02,Settlement and Access Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92/EMO 91,Sale/Reward,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,Y
+26,Enjin Coin,ENJ,enjincoin,Aavneet,"An Ethereum token that aims to ‚Äúmake it easy for individuals, businesses, and brands to use non-fungible tokens (NFTs).",EEP22TU02,Settlement and Access Token,EIN08ES,"Entertainment, Sports and Gaming",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+27,SushiSwap,SUSHI,sushi,Nick,"Based on the code of UniSwap, it gives liquidity providers the option to get less fees but ""sushis"" instead, that would create consitent liqudity",EEP22TU03,Settlement and Governance Token,EIN06DF01,"Decentralized Exchanges, Markets and Market Making",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO93,Airdrop,EMS82IF,Inflationary,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+28,Nexo,NEXO,nexo,Magda,Nexo is the most advanced platform for instant crypto loans. It gives digital asset holders instant access to cash and retaining ownership of their assets.,EEP22NT02,Governance Token,EIN06DF02,"Banking, Custody and Financing Services",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,Y
+29,Basic Attention Token,BAT,basic-attention-token,Marlene,blockchain-based digital advertising platform,EEP22TU01,Settlement Token,EIN07PR,"Advertising, Marketing and Public Relations",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,Depends on the ledger,Depends on the ledger,RTA72,New Asset Token,Y
+30,KuCoin Token,KCS,kucoin-shares,Jan,KuCoin is an international cryptocurrency exchange based out of Seychelle that currently supports the trading of 250 digital assets.,EEP22TU02,Settlement and Access Token,EIN06BS,"Exchange, Trading and Settlement",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+31,Bancor,BNT,bancor,Aavneet,BNT is an ERC-20 token that serves as the payment mechanism through which liquidity pools connect in the Bancor network.,EEP22TU03,Settlement and Governance Token,EIN06DF01,"Decentralized Exchanges, Markets and Market Making",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,Depends on the ledger,Depends on the ledger,RTA72,New Asset Token,Y
+32,OKB,OKB,okb,Jan,OKB is the cryptocurrency issued by OKEx which is a centralized crypto exchange. OKEx's USP is the focus on offering a multitude of trading pairs as well as options trading.,EEP22TU03,Settlement and Governance Token,EIN06EX,"Exchange, Trading and Settlement",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82DF,Deflationary,Depends on the ledger,Depends on the ledger,RTA72,New Asset Token,Y
+33,Telcoin,TEL,telcoin,Magda,"Instant, low-cost money transfers powered by the Blockchain.",EEP22TU01,Settlement Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+34,HUSD,HUSD,husd,Marlene,US-Dollar stablecoin at the exchange Huobi,EEP21PP01USD,USD-Pegged Payment Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC32,Relative Rights Token,LIT61PV,Private Sector Legal Entity,REU51EM12,Non-Authorized Significant E-Money Token,EMO92,Sale,EMS82DC,Discretionary,TCM72DS,Proof of Work,RTA71,Conventional Asset Tokens,N
+35,SwissBorg,CHSB,swissborg,Magda,DEX that allows for investments in digital assets,EEP22TU03,Settlement and Governance Token,EIN06DF01,"Decentralized Exchanges, Markets and Market Making",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Ptivate Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+36,Curve DAO Token,CRV,curve-dao-token,Marlene,DEX and liquidity protocol for stablecoins,EEP22TU03,Settlement and Governance Token,EIN06DF01,"Decentralized Exchanges, Markets and Market Making",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT62AL,Application Layer Protocol,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,Depends on the ledger,Depends on the ledger,RTA72,New Asset Token,Y
+37,Revain,REV,revain,Aavneet,A review platform that aims to curate and reward user feedback on products and services by leveraging blockchain technology.,EEP22TU01,Settlement Token,EIN05MS,Media and Social Media,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+38,0x,ZRX,0x,Albert,Open-source protocol for the decentralized exchange on ethereum blockchain,EEP22TU03,Settlement and Governance Token,EIN06DF01,"Decentralized Exchanges, Markets and Market Making",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT62AL,Application Layer Protocol,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72PS,Proof of Work,RTA72,New Asset Token,N
+39,UMA,UMA,uma,Magda,Allows for decentralized financial products to be built,EEP22TU03,Settlement and Governance Token,EIN06DF03,"Decentralized Derivatives, Synthetic Assets and Insurance",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72PS,Proof of Work,RTA72,New Asset Token,N
+40,OMG Network,OMG,omisego,Marlene,Ethereum Layer 2 Optimistic Rollup scaling solution,EEP22TU01,Settlement Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TMC71PS,Proof of Stake,RTA72,New Asset Token,N
+41,Neutrino USD,USDN,neutrino,Magda,Neutrino is an algorithmic price-stable assetization protocol that enables the creation of stablecoins pegged to specific real-world assets,EEP21PP01USD,USD-Pegged Payment Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51EM12,Non-Authorized Significant E-Money Token,EMO92,Sale,EMS82DC,Discretionary,TCM72DS,Proof of Work,RTA71,Conventional Asset Tokens,N
+42,Voyager Token,VGX,ethos,Aavneet,The Voyager Token (VGX) is a cryptocurrency broker token.,EEP22TU02,Settlement and Access Token,EIN06EX,"Exchange, Trading and Settlement",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+43,renBTC,RENBTC,renbtc,Jan,"RenBTC¬†is an¬†ERC-20¬†token built on the Ethereum pegged to Bitcoin. RenBTC is minted on the Ren platform, which is an open protocol that provides inter-blockchain¬†liquidity.",EEP23DV03,Other Derivative Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC32,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51ZZ,Other In-Scope Crypto Asset,EMO94,Wrapping,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,Y
+44,Gemini Dollar,GUSD,gemini-dollar,Nick,Reserver packed stable coin based on ethereum,EEP21PP01USD,USD-Pegged Payment Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC32,Relative Rights Token,LIT61PV,Private Sector Legal Entity,REU51EM12,Non-Authorized Significant E-Money Token,EMO92,Sale,EMS82DC,Discretionary,TCM72DS,Proof of Work,RTA71,Conventional Asset Tokens,N
+45,1inch,1INCH,1inch,Albert,Multichain DEX aggregator to optimize AMM transactions,EEP22TU03,Settlement and Governance Token,EIN06DF01,"Decentralized Exchanges, Markets and Market Making",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT62AL,Application Layer Protocol,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM71PS,Proof of Stake,RTA72,New Asset Token,Y
+46,Golem,GLM,golem,Magda,,EEP22TU01,Settlement Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+47,Ren,REN,republic-protocol,Jan,REN tokens are a bond to run a darknode in the RenVM network. this network allows to wrap bitcoin into renBTC and use it in DeFi applications.,EEP22TU01,Settlement Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,Y
+48,The Sandbox,SAND,the-sandbox,Prashant,"Sandbox is a blockchain-based virtual world allowing users to create, build, buy and sell digital assets in the form of a game",EEP22TU03,Settlement and Governance Token,EIN08ES,"Entertainment, Sports and Gaming",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+49,Gnosis,GNO,gnosis,Prashant,,EEP22NT02,Governance Token,EIN05DA01,"Artificial Intelligence (AI), Predictive Analytics, and Big Data",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+50,ASD,BTMX,asd,Aavneet,ASD is to provide a convenient and secure mode of payment and settlement between participants who interact within the ecosystem on AscendEx.,EEP22TU02,Settlement and Access Token,EIN06EX,"Exchange, Trading and Settlement",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM71PS,Proof of Stake,RTA72,New Asset Token,N
+51,Kyber Network Crystal,KNC,kyber-network-crystal,Albert,,EEP22TU03,Settlement and Governance Token,EIN06DF01,"Decentralized Exchanges, Markets and Market Making",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72PS,Proof of Work,RTA72,New Asset Token,N
+52,Kyber Network Crystal Legacy,KNCL,kyber-network,Max,,EEP22TU03,Settlement and Governance Token,EIN06DF01,"Decentralized Exchanges, Markets and Market Making",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72PS,Proof of Work,RTA72,New Asset Token,N
+53,Livepeer,LPT,livepeer,Marlene,First fully decentralized live video streaming network protocol.,EEP22TU03,Settlement and Governance Token,EIN05MS,Media and Social Media,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82IF,Inflationary,TCM72DS,Delegated Proof of Stake,RTA72,New Asset Token,N
+54,Loopring,LRC,loopring,Aavneet,"An Ethereum token that describes itself as ‚Äúan open-sourced, audited, and non-custodial exchange protocol.‚Äù It aims to allow anyone to build non-custodial, order book-based exchanges on Ethereum by leveraging zero-knowledge proofs.",EEP22TU02,Settlement and Access Token,EIN06DF01,"Decentralized Exchanges, Markets and Market Making",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82DF,Deflationary,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+55,Reserve Rights,RSR,reserve-rights-token,Jan,"Stable currency, a human right.",EEP22TU03,Settlement and Governance Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+56,WINkLink,WIN,wink,Magda,,EEP22TU02,Settlement and Access Token,EIN08ES,"Entertainment, Sports and Gaming",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT62DL,Distributed Ledger Protocol,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM71PS,Proof of Stake,RTA72,New Asset Token,Y
+57,Ocean Protocol,OCEAN,ocean-protocol,Prashant,,EEP22TU03,Settlement and Governance Token,EIN05DA05,"Other Software, Data Storage and Processing",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+58,GateToken,GT,gatechain-token,Aavneet,Unique exchange token of Gate.io exchange and the native token to Gatechain public chain.,EEP22TU02,Settlement and Access Token,EIN06EX,"Exchange, Trading and Settlement",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+59,Origin Protocol,OGN,origin-protocol,Albert,,EEP22TU03,Settlement and Governance Token,EIN06DF01,"Decentralized Exchanges, Markets and Market Making",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72PS,Proof of Work,RTA72,New Asset Token,N
+60,Status,SNT,status,Marlene,"Secure messaging app, crypto wallet, and Web3 browser",EEP22TU03,Settlement and Governance Token,EIN05MS,Media and Social Media,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82IF,Inflationary,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+61,WAX,WAXP,wax,Aavneet,,EEP22TU02,Settlement and Access Token,EIN06EX,"Exchange, Trading and Settlement",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+62,iExec RLC,RLC,iexec-rlc,Jan,iExec is the leading provider of blockchain-based decentralized computing. Blockchain is utilized to organize a market network where people can monetize their computing power as well as applications and even datasets.,EEP22TU02,Settlement and Access Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+63,Alpha Finance Lab,ALPHA,alpha-finance,Nick,,EEP22NT01,Access Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+64,Augur,REP,augur,Nick,"Decentrelized prediction market that uses ""whistom of the crouds"", where users can create their own prediction markets.",EEP22TU02,Settlement and Access Token,EIN05MS,"Decentralized Data, Oracles and Infrastructure",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT62AL,Application Layer Protocol,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+65,Dent,DENT,dent,Albert,"Decentralized, blockchain-based mobile data providers",EEP22TU02,Settlement and Access Token,EIN05TC,Telecommunications and Communications,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72PS,Proof of Work,RTA72,New Asset Token,N
+66,Orchid,OXT,orchid-protocol,Jan,Orchid offers a VPN Service powered by its own cryptocurrency OXT,EEP22TU02,Settlement and Access Token,EIN05DA02,"Cyber Security, Data Privacy, and Digital Identity",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+67,Injective Protocol,INJ,injective-protocol,Albert,Layer-2 DEX protocol focusing on derivative based DeFi products,EEP22TU03,Settlement and Governance Token,EIN06DF03,"Decentralized Derivatives, Synthetic Assets and Insurance",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT62AL,Application Layer Protocol,REU51UT,Utility Token,EMO92,Sale,EMS82DF,Deflationary,Depends on the ledger,Depends on the ledger,RTA72,New Asset Token,Y
+68,Wootrade,WOO,woo-network,Magda,Crypto exchange market.,EEP22TU03,Settlement and Governance Token,EIN06EX,"Exchange, Trading and Settlement",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+69,Swipe,SXP,swipe,Marlene,Card Payment Infrastructure for Cryptocurrencies,EEP22TU03,Settlement and Governance Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82DF,Deflationary,Depends on the ledger,Depends on the ledger,RTA72,New Asset Token,Y
+70,Unibright,UBT,unibright,Aavneet,Utility Token needed for all products and services offered by UNIBright.,EEP22TU03,Settlement and Governance Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72PS,Proof of Work,RTA72,New Asset Token,Y
+71,Numeraire,NMR,numeraire,Albert,Platform to build machine learning models to predict the stock market.,EEP22TU02,Settlement and Access Token,EIN05DA01,"Artificial Intelligence (AI), Predictive Analytics, and Big Data",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+72,Small Love Potion,SLP,smooth-love-potion,Aavneet,ERC-20 token accessible on the blockchain-powered Axie Infinity platform earned as rewards by users through gameplay.,EEP22TU03,Settlement and Governance Token,EIN08ES,"Entertainment, Sports and Gaming",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EM092,Reward,EMS81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+73,StormX,STMX,storm,Nick,StormX is a decentralised platform where online shoppers can earn crypto in shopping rewards.,EEP22TU02,Settlement and Access Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No Claim Token,LIT61PV,Private Sector legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+74,FUNToken,FUN,funfair,Albert,Decentralized platform for the creation and/or licensing of online casinos on the blockchain.,EEP22TU02,Settlement and Access Token,EIN08BG,Betting and Gambling,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82DF,Deflationary,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+75,SingularityNET,AGIX,singularitynet,Marlene,Global AI Marketplace.,EEP22TU02,Settlement and Access Token,EIN05DA01,"Artificial Intelligence (AI), Predictive Analytics, and Big Data",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS80,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+76,ZB Token,ZB,zb-token,Nick,Exchange token that is used for the Zero Bank exchange,EEP22TU03,Settlement and Governance Token,EIN06EX,"Exchange, Trading and Settlement",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Sale,EMS81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+77,Orbs,ORBS,orbs,Albert,Open blockchain to bring scalability to ethereum,EEP22TU03,Settlement and Governance Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,Y
+78,MCO,MCO,monaco,Magda,It is essentially a token for blockchain-based payment applications and trades under the symbol MCO.,EEP22TU02,Settlement and Access Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82IF,Inflationary,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+79,MVL,MVL,mass-vehicle-ledger,Aavneet,Mass Vehicle ledger addresses trust issues in the mobility industry and aims to provide with the help of blockchain and Ethereum's smart contracts. The MVL token is an ERC20 utility and reputation token on the Ethereum blockchain that has the aim to restore the trust in the mobility industry.,EEP22TU02,Settlement and Access Token,EIN05DA02,"Internet of Things (IoT), Smart Infrastructures, and Connectivity",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No Claim Token,LIT61PV,Private Sector legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+80,Aragon,ANT,aragon,Nick,Aragon is used to maintain and create decentralized autonomous organizations (DAOs) on the Ethereum blockchain,EEP22TU03,Settlement and Governance Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82IF,Inflationary,TCM71PS,Proof of Work,RTA72,New Asset Token,N
+81,Civic,CVC,civic,Magda,Civic is a blockchain-based identity management solution that gives individuals and businesses the tools they need to control and protect personal identity information,EEP22TU02,Settlement and Access Token,EIN05DA04,"Cyber Security, Data Privacy, and Digital Identity",TTS42ET01,Etereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82IF,Inflationary,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+82,Ultra,UOS,ultra,Marlene,Entertainment platform providing a variety of games industry services,EEP22TU01,Settlement Token,EIN08ES,"Entertainment, Sports and Gaming",TTS42ET01,Etereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+83,NuCypher,NU,nucypher,Nick,Cryptographic Infrastructure for Privacy-Preserving Applications,EEP22TU02,Settlement and Access Token,"
+EIN05DA04","Cyber Security, Data Privacy, and Digital Identity",TTS42ET01,Etereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51,Utility Token,EMO91,Sale,EMS81,Fixed,TCM71PW,Proof Of Work,RTA72,New Asset Token,N
+84,Metadium,META,metadium,Magda,"Metadium is a total identity management, convenient and secure device authentication via blockchain technology.",EEP22TU02,Settlement and Access token,EIN05DA04,"
+Cyber Security, Data Privacy, and Digital Identity",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82IF,Inflationary,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+85,ZKSpace,ZKS,zkspace,Marlene,Layer-2 Token Swap Protocol based on ZK-Rollup,EEP22TU03,Settlement and Governance Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82DF,Deflationary,TCM71PS,Proof of Stake,RTA72,New Asset Token,N
+86,Ampleforth,AMPL,ampleforth,Aavneet,"Ampleforth operates a stablecoin called AMPL, and it adjusts the supply of AMPL managed by the software daily to maintain price parity with the U.S. dollar.",EEP21PP01USD,USD-Pegged Payment Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82DF,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,Y
+87,Enzyme,MLN,melon,Jan,"Enzyme offers decentralized on-chain asset management which allows to set up, manage and invest in customized on-chain investment vehicles.",EEP22TU03,Settlement and Governance Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Reward,EMS82IF,Inflationary,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+88,Balancer,BAL,balancer,Nick,Balancer is an AMM that allows liquidity pools with up to 8 tokens and weighted distribiution of them. This can result in less impermanent loss and more flexible liquidiy pools,EEP22TU03,Settlement and Governance Token,EIN06DF01,"Decentralized Exchanges, Markets and Market Making",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+89,Phala Network,PHA,pha,Albert,Decentralized cloud computing service by using excess capacity from everyday computer,EEP22TU03,Settlement and Governance Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT62AL,Application Layer Protocol,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM72ZZ,Other Hybrid,RTA72,New Asset Token,N
+90,Hxro,HXRO,hxro,Magda,"Hxro is a cryptocurrency platform that offers perpetual, time-based digital derivatives markets",EEP22TU02,Settlement and Access token,EIN06EX,"Exchange, Trading and Settlement",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82IF,Inflationary,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+91,PAX Gold,PAXG,pax-gold,Jan,Paxo gold is an asset backed token which resembles a claim on one troy fine ounce of gold,EEP21PP02,Asset-Pegged Payment Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Etereum ERC-20 Standard Token,LLC32,Relative Rights Token,LIT61PV,Private Sector Legal Entity,REU51ZZ,Other In-Scope Crypto Asset,EMO92,Sale,EMS82DC,Discretionary,TCM71PW,Proof of Work,RTA71,Conventional Asset Tokens,N
+92,STASIS EURO,EURS,stasis-eurs,Magda,The EURS stablecoin combines the benefits of blockchain technology with the reputation and relative stability of the euro,EEP21PP01EUR,EUR-Pegged Payment Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Etereum ERC-20 Standard Token,LLC32,Relative Rights Token,LIT61PV,Private Sector Legal Entity,REU51EM12,Non-Authorized Significant E-Money Token,EMO92,Sale,EMS82DC,Discretionary,TCM71PW,Proof of Work,RTA71,Conventional Asset Tokens,Y
+93,Chromia,CHR,chromaway,Aavneet,"Chromia is a blockchain platform, making it easy for people to build decentralized apps in the real world, for a better world.",EEP22TU03,Settlement and Governance Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,Y
+94,Strike,STRK,strike,Jan,"Strike is a decentrelized lending pool, allowing users to deposit liquidity in strike pools",EEP22TU03,Settlement and Governance Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO93,Reward,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,Y
+95,HEX,HEX,hex,Albert,The first blockchain certificate of deposit,EEP21UP,Unpegged Payment Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT62DL,Distributed Ledger Protocol,REU51ZZ,Other In-Scope Crypto Asset,EMO93,Reward,EMS82IF,Inflationary,TCM72PS,Proof of Work,RTA72,New Asset Token,Y
+96,botXcoin,BOTX,botxcoin,Magda,"Botxcoin aspire to bring Blockchain technology and products to the masses, advancing with trust",EEP22TU03,Settlement and Governance Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82IF,Inflationary,TCM71PW,Depends on the ledger,RTA72,New Asset Token,N
+97,Fei USD,FEI,fei-usd,Marlene,DeFi native algorithmic stablecoin,EEP21PP01USD,USD-Pegged Payment Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51EM12,Non-Authorized Significant E-Money Token,EMO92,Sale,EMS82DC,Discretionary,Depends on the ledger,Depends on the ledger,RTA71,Conventional Asset Tokens,Y
+98,Wrapped BNB,WBNB,wbnb,Jan,The native token of the Binance cryptocurrency exchange.,EEP22TU01,Settlement Token,EIN06DF05,Other Decentralized Finance (DeFi),TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO94,Wrapping,EMS82DC,Discretionary,TCM71PW,Proof of Work,RTA72,New Asset Token,Y
+99,Egoras,EGR,empty,Nick,Egoras is a micro-financing platforrm that offers non-colletorized credits to smaller firms.,EEP22TU03,Settlement and Governance Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EM81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+100,Huobi BTC,HBTC,huobi-btc,Magda,Bitcoin is an innovative payment network and a new kind of money.,EEP21UP,Unpegged Payment Token,EIN06DF05,Other Decentralized Finance (DeFi),TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51ZZ,Other In-Scope Crypto Asset,EMO94,Wrapping,EMS81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,Y
+101,stETH (Lido),STETH,staked-ether,Marlene,Liquid staking solution for Ethereum,EEP23DV03,Other Derivative Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT62AL,Application Layer Protocol,REU51ZZ,Other In-Scope Crypto Asset,EMO94,Wrapping,EMS82DC,Discretionary,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+102,Creditcoin,CTC,creditcoin-2,Aavneet,The Creditcoin Network is a public blockchain that creates a credit lending infrastructure allowing fintech lenders and microfinance providers greater access to capital while borrowers secure transactions on a groundbreaking immutable ledger with the Creditcoin token.,EEP22TU03,Settlement and Governance Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT62AL,Application Layer Protocol,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,N
+103,The Transfer Token,TTT,empty,Jan,We provide the best rates for overseas remittance and foreign currency exchange.,EEP22TU02,Settlement and Access token,EIN06EX,"Exchange, Trading and Settlement",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,N
+104,INO COIN,INO,empty,Nick,INO Coin is a decentrelized crowdfunding platform for Crypto oriented fundings like ICOs with its INO token governing the system,EEP22TU03,Settlement and Governance Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,N
+105,Liquity USD,LUSD,liquity-usd,Albert,USD-pegged stablecoin to pay out loan on Liquity protocol,EEP21PP01USD,USD-Pegged Payment Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51EM12,Non-Authorized Significant E-Money Token,EMO92,Sale,EMS82DC,Discretionary,TCM72PS,Proof of Work,RTA71,Conventional Asset Tokens,N
+106,ECOMI,OMI,ecomi,Aavneet,"ECOMI is a technology company based in Singapore which aims to lead the way in the emerging digital collectibles space, as well as protection of digital assets.",EEP22TU03,Settlement and Governance Token,EIN06DF01,"Decentralized Exchanges, Markets and Market Making",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+107,Zelwin,ZLW,zelwin,Nick,"Zelwin is an online platform where, when buying something, you can earn Zelwin coins in reward and exchange them for other cryptocurrencies",EEP22TU01,Settlement Token,EIN04,"Manufacturing, Trade and Logistics",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO93,Reward,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+108,yOUcash,YOUC,youcash,Albert,Digital currency that powers decentralized and tokenized advertising platform (YouEngine),EEP22TU02,Settlement and Access Token,EIN05MS,Media and Social Media,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72PS,Proof of Work,RTA72,New Asset Token,N
+109,Venus BNB,vBNB,empty,Magda,The native token of the Binance cryptocurrency exchange.,EEP22TU01,Settlement Token,EIN06DF05,Other Decentralized Finance (DeFi),TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO94,Wrapping,EMS82DC,Discretionary,TCM71PS,Proof of Stake,RTA72,New Asset Token,N
+110,Nexus Mutual,NXM,nxm,Aavneet,Get covered against smart contract failure & exchange hacks.,EEP22TU03,Settlement and Governance Token,EIN06DF05,Other Decentralized Finance (DeFi),TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,Y
+111,HedgeTrade,HEDG,hedgetrade,Nick,HedgeTrade aims to be a platform where traders share their knowledge. Traders post predictions into a smart contract-powered Blueprint that users can purchase or unlock in order to access,EEP22TU02,Settlement and Access Token,EIN05DA01,"Artificial Intelligence (AI), Predictive Analytics, and Big Data",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+112,TitanSwap,TITAN,titanswap,Albert,DEX and more governed by a DAO,EEP22TU03,Settlement and Governance Token,EIN06DF01,"Decentralized Exchanges, Markets and Market Making",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT62AL,Application Layer Protocol,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM72PS,Proof of Work,RTA72,New Asset Token,N
+113,Orbit Chain,ORC,orbit-chain,Magda,The Orbit project is building the de facto standard of blockchain in the world.,EEP22TU02,Settlement and Access Token,EIN06DF01,"Decentralized Exchanges, Markets and Market Making",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF03,other BFT,RTA72,New Asset Token,Y
+114,"Perpetual Protocol (former ""strike"")",PERP,perpetual-protocol,Marlene,On-chain perpetual futures DEX,EEP22TU03,Settlement and Governance Token,EIN06DF03,"Decentralized Derivatives, Syntethic Assets and Insuarance",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,Y
+115,Bitpanda Ecosystem Token,BEST,bitpanda-ecosystem-token,Aavneet,"BEST is a pure trade token (also known as a no-rights token) and therefore does not convey any claims or rights - however structured - beyond ownership rights of BEST. In particular, BEST does not convey or represent any rights, claims or entitlements on whatever legal basis, contingent or actual, against Bitpanda, any of its subsidiaries, any other participant of the Bitpanda Ecosystem or any other third parties.",EEP22TU02,Settlement and Access Token,EIN06EX,"Exchange, Trading and Settlement",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+116,sUSD,SUSD,nusd,Jan,sUSD is a synthetic USD token enabled by the Synthetix protocol. It tracks the price of the US Dollar through price feeds supplied by Chainlink‚Äôs decentralized network of oracles.,EEP21PP01USD,USD-Pegged Payment Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51EM12,Non-Authorized Significant E-Money Token,EMO96,Other,EMS82DC,Discretionary,TCM72PS,Proof of Work,RTA71,Conventional Asset Tokens,N
+117,Frax,FRAX,frax,Nick,Frax is the first decentrelized stablecoin that utilizes both asset backed and algorithmic stability.,EEP21PP01USD,USD-Pegged Payment Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51EM12,Non-Authorized Significant E-Money Token,EMO96,Other,EMS82DC,Discretionary,TCM72PS,Proof of Work,RTA71,Conventional Asset Tokens,Y
+118,Pundi X,PUNDIX,pundi-x-2,Albert,blockchain-based POS and P2P solution for retail,EEP22TU02,Settlement and Access Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82DF,Deflationary,TCM72PS,Proof of Work,RTA72,New Asset Token,N
+119,KOK,KOK,kok,Magda,"‚ÄòKOK' is a decentralized digital content platform aimed to create a fair, open, and transparent ecosystem where creators receive equitable compensations and consumers can enjoy a diverse variety of contents.",EEP22TU03,Settlement and Governance Token,EIN05MS,Media and Social Media,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72PS,Proof of Work,RTA72,New Asset Token,N
+120,Persistence,XPRT,persistence,Aavneet,Protocol powering Institutional Open Finance.,EEP22TU03,Settlement and Governance Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,Y
+121,Doctors Coin,DRS,empty,Magda,MEDICAL BEAUTY INFLUENCERS BEYOND BORDERS,EEP22TU01,Settlement Token,EIN05MS,Media and Social Media,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,N
+122,Tribe,TRIBE,tribe-2,Aavneet,"An Ethereum token that governs Fei Protocol, which issues a separate, decentralized stablecoin called FEI that attempts to maintain a value of US$1.00",EEP22TU03,Settlement and Governance Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,Depends on the ledger,Depends on the ledger,RTA72,New Asset Token,Y
+123,Dawn Protocol,DAWN,dawn-protocol,Magda,Dawn is the original Esports token,EEP22TU03,Settlement and Governance Token,EIN08ES,"Entertainment, Sports and Gaming",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,N
+124,Keep Network,KEEP,keep-network,Aavneet,"KEEP is an Ethereum token that powers the Keep Network, a platform that aims to bridge public blockchains and private data.",EEP22TU02,Settlement and Access Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,Y
+125,Alien Worlds,TLM,alien-worlds,Nick,"TLM is the native token of the Alien World, a game where players compete for Trilium (TLM), in a stimulated economy centered around planetary worlds. It runs on Ethereum, Binance Smart Chain and WAX.",EEP22TU03,Settlement and Governance Token,EIN08ES,"Entertainment, Sports and Gaming",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,Depends on the ledger,Depends on the ledger,RTA72,New Asset Token,Y
+126,Sapphire,SAPP,sapphire,Albert,digital currency for games & other applications,EEP22TU02,Settlement and Access Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO93,Reward,EMS81,Fixed,TCM71PS,Proof of Stake,RTA72,New Asset Token,N
+127,MATH,MATH,math,Magda,The multichain wallet for web 3.0,EEP22TU02,Settlement and Access Token,EIN05DA05,"Other Software, Data Storage and Processing",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,Y
+128,Orion Protocol,ORN,orion-protocol,Aavneet,"The Orion Protocol will aggregate the liquidity, order book depth, and price discovery from every centralized and decentralized digital asset market.",EEP22TU03,Settlement and Governance Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,Y
+129,inSure DeFi,SURE,insure,Natalie,Insure Your Crypto Portfolio,EEP22TU02,Settlement and Access Token,EIN06DF03,"Decentralized Derivatives, Synthetic Assets and Insurance",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,Y
+130,Rakon,RKN,empty,Nick,"Raken network aims to provide a decentrelized alternative for satellites, navigation and communication systems with RKN powering their smart contracts.",EEP22TU03,Settlement and Governance Token,EIN05TC,Telecommunications and Communications,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM72DS,Proof-of-Work,RTA72,New Asset Token,N
+131,Ampleforth Governance Token,FORTH,ampleforth-governance-token,Aavneet,"Forth is a new governance token that completes the Ample ecosystem by putting control of the protocol in the hands of the community. Using the Forth token, holders will be able to vote on changes to the protocol.",EEP22TU03,Settlement and Governance Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM72DS,Proof-of-Work,RTA72,New Asset Token,N
+132,Linear,LINA,linear,Albert,DeFi protocol for synthetic asset with cross-chain capabilities,EEP22TU03,Settlement and Governance Token,EIN06DF01,"Decentralized Exchanges, Markets and Market Making",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO93,Reward,EMS82IF,Inflationary,TCM72PS,Proof of Work,RTA72,New Asset Token,Y
+133,Rocket Pool,RPL,rocket-pool,Aavneet,The protocol's liquid staking token. The rETH token represents an amount of ETH that is being staked and earning rewards within Ethereum Proof-of-Stake.,EEP22TU03,Settlement and Governance Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM72DS,Proof-of-Work,RTA72,New Asset Token,Y
+134,Cream Finance,CREAM,cream-2,Natalie,,EEP22NT02,Governance Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT62AL,Application Layer Protocol,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM72DS,Proof-of-Work,RTA72,New Asset Token,Y
+135,DFI.Money,YFII,yfii-finance,Nick,"Started as a hard fork of Yearn Finace, it enables the same fuinctionality with some other features and the avadibility to mine and farm the YFII token.",EEP22NT02,Governance Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT62AL,Application Layer Protocol,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,N
+136,CRYPTO20,C20,empty,Aavneet,The world's first tokenized crypto index fund.,EEP23FD,Fund Token,EIN06AM,Investment and Asset Management,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,N
+137,Radix,EXRD,e-radix,Natalie,,EEP22TU03,Settlement and Governance Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF03,Other BFT (Tendermint),RTA72,New Asset Token,N
+138,dKargo,DKA,dkargo,Nick,DKA is the native token powering the dKargo network enabling logistic tracing,EEP22TU02,Settlement and Access Token,EIN04,"Manufacturing, Trade and Logistics",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,N
+139,DODO,DODO,dodo,Albert,"decentralized exchange platform powered by the Proactive Market Maker (PMM) algorithm, with other functionalities",EEP22TU03,Settlement and Governance Token,EIN06DF01,"Decentralized Exchanges, Markets and Market Making",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72PS,Proof of Work,RTA72,New Asset Token,Y
+140,Metal DAO,MTL,metal,Aavneet,Metal is built on the Ethereum Blockchain and provides its users with the facility to convert their fiat currencies into cryptocurrencies and vice-versa.,EEP22TU01,Settlement Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,N
+141,Travala,AVA,concierge-io,Nick,Travala is the first blockchain based travel booking platform,EEP22TU03,Settlement and Governance Token,EIN08RT,"Recreation, Travel, Accomodation and Food Services",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,Y
+142,QuarkChain,QKC,quark-chain,Albert,"multi-layer, permissionless blockchain for peer-to-peer transactions",EEP22TU03,Settlement and Governance Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM71ZZ,Other Proof based,RTA72,New Asset Token,N
+143,LUKSO,LYXE,lukso-token,Marlene,Blockchain for the New Creative Economy,EEP22TU01,Settlement Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,N
+144,Gala,GALA,gala,Nick,,EEP22TU03,Settlement and Governance Token,EIN08ES,"Entertainment, Sports and Gaming",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82IF,Inflationary,TCM73BF02,Proof of Work,RTA72,New Asset Token,Y
+145,ZEON Network,ZEON,zeon,Nick,ZEON is a DeFi platform that offers crypto backed loans and interest on digital deposits,EEP22TU03,Settlement and Governance Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Reward,EMS82DF,Deflationary,TCM73BF02,Proof of Work,RTA72,New Asset Token,N
+146,Tokenlon Network Token,LON,tokenlon,Albert,decentralized exchange and payment settlement protocol based on Ethereum blockchain technology,EEP22TU03,Settlement and Governance Token,EIN06DF01,"Decentralized Exchanges, Markets and Market Making",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO93,Reward,EMS81,Fixed,TCM72PS,Proof of Work,RTA72,New Asset Token,N
+147,Wrapped NXM,WNXM,wrapped-nxm,Jan,,EEP22TU03,Settlement and Governance Token,EIN06DF05,Other Decentralized Finance (DeFi),TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,Y
+148,MyNeighborAlice,ALICE,my-neighbor-alice,Marlene,Farming-themed play-to-earn builder game,EEP22TU02,Settlement and Access Token,EIN08ES,"Entertainment, Sports and Gaming",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72PS,Proof of Work,RTA72,New Asset Token,Y
+149,Populous,PPT,populous,Nick,Populous is based on Ethereum and offers the securitization of not yet payed invoices,EEP22TU03,Settlement and Governance Token,EIN06ZZ,Other Finance and Insurance,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,N
+150,Gitcoin,GTC,gitcoin,Marlene,Build & fund public goods,EEP22TU03,Settlement and Governance Token,EIN09,"Public Administration, Education, Healthcare and Social Assistance",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,Y
+151,Bytom,BTM,bytom,Aavneet,Bytom is a cryptocurrency that describes itself as a protocol for asset management.,EEP22TU03,Settlement and Governance Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,N
+152,Rally,RLY,rally-2,Nick,"Rally allows influencers, authors and other people to issue their own personal token for their community.",EEP22TU03,Settlement and Governance Token,EIN05MS,Media and Social Media,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO93,Airdrop,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,N
+153,BarnBridge,BOND,barnbridge,Jan,A fluctuations derivatives protocol for hedging yield sensitivity and market price.,EEP22TU03,Settlement and Governance Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,N
+154,Utrust,UTK,utrust,Marlene,Web3 L1 payments technology,EEP22TU01,Settlement Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,Y
+155,Convex Curve,CVXCRV,convex-crv,Noah,Liquid Locked CRV,EEP23DV03,Other Derivative Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,REU51ZZ,Other In-Scope Crypto Asset,,,,,,,,,
+156,Toncoin,TON,the-open-network,Noah,Telegram Alt-L1 Token,EEP22TU01,Settlement Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,REU51UT,Utility Token,,,,,,,,,
+157,Lido DAO,LDO,lido-dao,Noah,Lido DAO Governance Token,EEP22NT02,Governance Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,REU51UT,Utility Token,,,,,,,,,
+158,ApeCoin,APE,apecoin,Noah,ape dao token,EEP22TU03,Settlement and Governance Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,REU51UT,Utility Token,,,,,,,,,
+159,ImmutableX,IMX,immutable-x,Noah,nft focused L2 native token,EEP22TU03,Settlement and Governance Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,REU51UT,Utility Token,,,,,,,,,
+160,Pax Dollar,USDP,paxos-standard,Noah,usd stable coin,EEP21PP01USD,USD-Pegged Payment Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,EEP21,Non-Authorized Significant E-Money Token,,,,,,,,,
+161,USDD,USDD,usdd,Noah,usd stable coin,EEP21PP01USD,USD-Pegged Payment Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,EEP21,Non-Authorized Significant E-Money Token,,,,,,,,,
+162,Frax Share,FXS,frax-share,Noah,Frax DAO token,EEP22TU03,Settlement and Governance Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,REU51UT,Utility Token,,,,,,,,,
+163,BitDAO,BIT,bitdao,Noah,governance of investment DAO,EEP22NT02,Governance Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,REU51UT,Utility Token,,,,,,,,,
+164,cUSDc,CUSDC,compound-usd-coin,Noah,compounding loaned usdc,EEP23DV03,Other Derivative Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,REU51ZZ,Other In-Scope Crypto Asset,,,,,,,,,
+165,cDAI,CDAI,cdai,Noah,compounding loaned DAI,EEP23DV03,Other Derivative Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,REU51ZZ,Other In-Scope Crypto Asset,,,,,,,,,
+166,WhiteBIT Token,WBT,whitebit,Noah,CEX discount token,EEP22TU02,Settlement and Access Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,REU51UT,Utility Token,,,,,,,,,
+167,Bitget Token,BGB,bitget-token,Noah,CEX discount token,EEP22TU02,Settlement and Access Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,REU51UT,Utility Token,,,,,,,,,
+168,TKX,TKX,tokenize-xchange,Noah,CEX discount token,EEP22TU02,Settlement and Access Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,REU51UT,Utility Token,,,,,,,,,
+169,XAUT,XAUT,tether-gold,Noah,gold pegged token,EEP21PP02,Asset-Pegged Payment Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,REU51ZZ,Other In-Scope Crypto Asset,,,,,,,,,
+170,Convex Finance,CVX,convex-finance,Noah,Convex native platform token,EEP22TU03,Settlement and Governance Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,REU51UT,Utility Token,,,,,,,,,
+171,cETH,CETH,compound-ether,Noah,compounding loaned eth,EEP23DV03,Other Derivative Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,REU51ZZ,Other In-Scope Crypto Asset,,,,,,,,,
+172,BTSE Token,BTSE,btse-token,Noah,CEX discount token,EEP22TU02,Settlement and Access Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,REU51UT,Utility Token,,,,,,,,,
+173,FLOKI,FLOKI,floki,Noah,,EEP22TU02,Settlement and Access Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+174,Bone ShibaSwap,BONE,bone-shibaswap,Noah,,,,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+175,Baby Doge Coin,BABYDOGE,baby-doge-coin,Noah,,,,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+176,Ethereum Name Service,ENS,ethereum-name-service,Noah,ENS DAO Token,EEP22NT02,Governance Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+177,Rocket Pool ETH,RETH,rocket-pool-eth,Noah,staked eth,EEP23DV03,Other Derivative Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+178,dYdX,DYDX,dydx,Noah,DEX native token,EEP22TU03,Settlement and Governance Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+179,Magic,MAGIC,magic,Noah,gaming ecosystem native token,EEP22TU03,Settlement and Governance Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+180,Olympus,OHM,olympus,Noah,speculative 'stable' coin,EEP21UP,Unpegged Payment Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+181,SSV Network,SSV,ssv-network,Noah,eth staking infrastructure provider,EEP22NT02,Governance Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+182,DAO Maker,DAO,dao-maker,Noah,Launchpad access & governance token,EEP22NT02,Governance Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+183,Gains Farm,GFARM2,gains-farm,Noah,goal to become DAO & fee distributing but bridget to Polygon as new token $GNS so not on ETH anymore,,,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+184,Astrafer,ASTRAFER,astrafer,Noah,web3 game utility token,EEP22TU03,Settlement and Governance Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+185,Blur,BLUR,blur,Noah,pro-nft marketplace,EEP22NT02,Governance Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+186,Mask Network,MASK,mask-network,Noah,web3 social infrastructure (twitter),EEP22NT02,Governance Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+187,JasmyCoin,JASMY,jasmycoin,Noah,IoT Data infrastructure?,EEP22TU01,Settlement Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+188,Blox,CDT,blox,Noah,eth staking provider built on SSV,OLD SSV token https://ssv.network/blog/technology/cdt-ssv-upgrade/,,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+189,Escoin,ELG,escoin-token,Noah,,,,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+190,Euro Tether,EURT,tether-eurt,Noah,,,,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+191,Artificial Liquid Intelligence,ALI,alethea-artificial-liquid-intelligence-token,Noah,,,,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+192,Onyxcoin,XCN,chain-2,Noah,,EEP22TU01,Settlement Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+193,Synapse,SYN,synapse-2,Noah,,,,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+194,STEPN,GMT,stepn,Noah,,EEP22TU03,Settlement and Governance Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+195,Coinmetro,XCM,coinmetro,Noah,,,,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+196,Biconomy,BICO,biconomy,Noah,,,,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+197,Dogelon Mars,ELON,dogelon-mars,Noah,,EEP21UP,Unpegged Payment Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+198,Everscale,EVER,everscale,Noah,,,,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+199,FLEX Coin,FLEX,flex-coin,Noah,,,,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+200,Multichain,MULTI,multichain,Noah,,,,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+201,CyberVein,CVT,cybervein,Noah,big data solution - DEAD,EEP22TU02,Settlement and Access Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+202,DxChain Token,DX,dxchain,Noah,alt network,EEP22TU03,Settlement and Governance Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+203,Kleros,PNK,kleros,Noah,decentralized dispute infrastructure,EEP22TU03,Settlement and Governance Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+204,Syntropy,NOIA,noia-network,Noah,decentralized web infrastructure,EEP22TU01,Settlement Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+205,TrustSwap,SWAP,trustswap,Noah,b2b token services & launchpad,EEP22TU02,Settlement and Access Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+206,Keep3rV1,KP3R,keep3rv1,Noah,web3 job market,EEP22TU03,Settlement and Governance Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+207,Streamr,DATA,streamr,Noah,data transport layer,EEP22TU03,Settlement and Governance Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+208,XYO,XYO,xyo-network,Noah,oracle,EEP22TU01,Settlement Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+209,DigitalBits,XDB,digitalbits,Noah,,EEP22TU01,Settlement Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+210,Request,REQ,request-network,Noah,payment requests / invoicing,EEP22TU03,Settlement and Governance Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+211,GensoKishi Metaverse,MV,gensokishis-metaverse,Noah,open world web3 game,EEP22TU03,Settlement and Governance Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+212,Freeway Token,FWT,freeway,Noah,withdrawals halted,EEP22NT01,Access Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+213,OriginTrail,TRAC,origintrail,Noah,"Alt Layer 1 & layer 2 network, similar to lukso, project transactions settled on Ethereum - runs separate nodes",EEP22TU01,Settlement Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+214,Pundi X,NPXS,pundi-x,Noah,blockchain-based POS and P2P solution for retail,EEP22TU02,Settlement and Access Token,EIN06PS,Payment Services and Infrastructure,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82DF,Deflationary,TCM72PS,Proof of Work,RTA72,New Asset Token,N
+215,The Midas Touch Gold,TMTG,the-midas-touch-gold,Max,KYC-gold-exchange utility token,EEP22TU01,Settlement Token,,,TTS42ET01,Ethereum ERC-20 Standard Token,,,,,,,,,,,,,,,
+216,Power Ledger,POWR,power-ledger,Noah,project processes transactions on solana,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+217,Share,SHR,sharering,Noah,has had many pivots. never governance. token served purpose of yield but now they have basically abandoned their token.(unstaking not possible anymore),EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+218,AdEx Network,ADX,adex,Noah,had governance voting and staking active ( https://snapshot.org/?ref=blog.ambire.com#/adex.eth/proposal/0x5f2459ef0f1633534d4c4c7a9cba9eeb8fe60033497ce22e25d2f7639c348189 ) It's a wallet and an ad exchange,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+219,LTO Network,LTO,lto-network,Noah,Alt network processes transactions,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+220,DIA,DIA,dia-data,Noah,oracle with a governance token and staking (staking is closed),EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+221,xDai,STAKE,xdai-stake,Noah,Gnosis side-chain settlement token,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+222,SOLVE,SOLVE,solve-care,Noah,healthcare services/not following best practices(wallet),EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+223,Tellor,TRB,tellor,Noah,governance unclear. on one hand talks about disputes governance and on other hand talks about governance. https://tellor.io/whitepaper/ https://tellor.io/more-about-trb/ ,,,,,,,,,,,,,,,,,,,,,
+224,ExtStock Token,XT,xtcom-token,Noah,CEX token,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+225,MINDOL,MIN,mindol,Noah,"not clear, they had nothing.",,,,,,,,,,,,,,,,,,,,,
+226,IZE,IZE,ize,Noah,not found coingecko,,,,,,,,,,,,,,,,,,,,,
+227,Homeros,HMR,homeros,Noah,Alt L1 network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+228,Chimpion,BNANA,banana-token,Noah,e-com settlement platform - no governance,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+229,Empty Set Dollar,ESD,empty-set-dollar,Noah,failed algorithmic stable coin,EEP21PP01USD,USD-Pegged Payment Token,,,,,,,,,,,,,,,,,,,
+230,Idea Chain Coin,ICH,ideachain,Noah,token utility not found,,,,,,,,,,,,,,,,,,,,,
+231,Strong,STRONG,strong,Noah,Nodes as a service. tells sometime governance token but i think it has not been started as I did not find anything,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+232,Tap,XTP,tap,Noah,CEX token,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+233,GNY,GNY,gny,Noah,Alt L1 network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+234,BTU Protocol,BTU,btu-protocol,Noah,,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+235,Poseidon Network,QQQ,qqq-token,Noah,Alt L1 network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+236,Hegic,HEGIC,hegic,Noah,DEX on Arbitrum! wants to do governance but does not do it yet I think? weird timeline for ARB project,,,,,,,,,,,,,,,,,,,,,
+237,Attila,ATT,attila,Noah,communication network / no info on token found,,,,,,,,,,,,,,,,,,,,,
+238,PARSIQ,PRQ,parsiq,Noah,now since 2022 they are changing to governance token but before they weren't,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+239,Polkastarter,POLS,polkastarter,Noah,"DEX built on Polkadot, not Ethereum",,,,,,,,,,,,,,,,,,,,,
+240,Bankera,BNK,bankera,Noah,Banking - great revenue sharing program but no governance,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+241,Harvest Finance,FARM,harvest-finance,Noah,yield smart contract platform. had governance rights but took them away??? see documentation,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+242,Darwinia Network,RING,darwinia-network-native-token,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+243,cVault.finance,CORE,cvault-finance,Noah,weird ponzinomics shitcoin,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+244,Sora,XOR,sora,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+245,NEST Protocol,NEST,nest,Noah,no documentation on token,,,,,,,,,,,,,,,,,,,,,
+246,Badger DAO,BADGER,badger-dao,Noah,yield smart contract platform. had governance rights but took them away??? see documentation,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+247,Maro,MARO,ttc-protocol,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+248,Hifi Finance,MFT,mainframe,Noah,borrow & lending protocol,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+249,Carry,CRE,carry,Noah,commerce payment wallet,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+250,COTI,COTI,coti,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+251,Loom Network,LOOM,loom-network,Noah,Alt L1 network Sidechain,,,,,,,,,,,,,,,,,,,,,
+252,Lambda,LAMB,lambda,Noah,Alt L1 network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+253,DREP,DREP,drep-new,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+254,RedFOX Labs,RFOX,redfox-labs-2,Noah,open world game not on Ethereum,,,,,,,,,,,,,,,,,,,,,
+255,PAID Network,PAID,paid-network,Noah,dapp stack platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+256,SuperFarm,SUPER,superfarm,Noah,dapp stack plarform,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+257,PIBBLE,PIB,pibble,Noah,asian full stack provider. say they have governance but they don't. looks shady,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+258,Atari Token,ATRI,atari,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+259,Ethernity Chain,ERN,ethernity-chain,Noah,nft marketplace on sidechain (polygon?) has governance,,,,,,,,,,,,,,,,,,,,,
+260,AMO Coin,AMO,amo,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+261,BioPassport Token,BIOT,biopassport,Noah,centralized digital passport startup,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+262,DerivaDAO,DDX,derivadao,Noah,derivatives DEX they have governance but no product yet...,,,,,,,,,,,,,,,,,,,,,
+263,12Ships,TSHP,12ships,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+264,Refereum,RFR,refereum,Noah,paying people who view twitch streams tokens and them needing to pay them tokens,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+265,Thunder Token,TT,thunder-token,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+266,Akropolis,AKRO,akropolis,Noah,DeFi dapp,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+267,Endor Protocol,EDR,endor,Noah,-,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+268,MovieBloc,MBL,moviebloc,Noah,movie streaming platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+269,district0x,DNT,district0x,Noah,holding company - not yet DAO,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+270,WHALE,WHALE,whale,Noah,Vault holding NFTs,EEP22NT03,Ownership Token,,,,,,,,,,,,,,,,,,,
+271,Function X,FX,fx-coin,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+272,Alchemix,ALCX,alchemix,Max,lending protocol (What sets Alchemix apart from other lending protocols is that the protocol enables loans to pay for themselves automatically),EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+273,Coin98,C98,coin98,Max,"swap, stake, lend, borrow, earn",,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+274,Yield Guild Games,YGG,yield-guild-games,Max,gaming guild,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+275,Illuvium,ILV,illuvium,Max,gaming platform,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+276,Rari Governance Token,RGT,rari-governance-token,Max,"lending, borrowing & yield",EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+277,PEAKDEFI,PEAK,marketpeak,Max,web3 wallet,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+278,Bifrost (BFC),BFC,bifrost,Max,cross-chain protocol,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+279,Alchemy Pay,ACH,alchemy-pay,Max,payment platform,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+280,Adventure Gold,AGLD,adventure-gold,Max,nft gaming platform,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+281,IDEX,IDEX,aurora-dao,Max,decentralised trading platform,EEP22NT03,Ownership Token,,,,,,,,,,,,,,,,,,,
+282,PlayDapp,PLA,playdapp,Max,web3 gaming and data platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+283,AllianceBlock,ALBT,allianceblock,Max,tokenization of assets,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+284,ApeSwap Finance,BANANA,apeswap-finance,Max,financial services & products,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+285,Automata Network,ATA,automata,Max,decentralized middleware service protocol,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+286,Verasity,VRA,verasity,Max,advertising platform,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+287,Radicle,RAD,radicle,Max,code collaboration platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+288,CEEK VR,CEEK,ceek,Max,content creator platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+289,Dusk Network,DUSK,dusk-network,Max,Layer 1; aims to bridge real world finance with DeFi,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+290,Dvision Network,DVI,dvision-network,Max,nft gaming platform,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+291,Phantasma,SOUL,phantasma,Max,gaming platform,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+292,Spell Token,SPELL,spell-token,Max,lending & borrowing,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+293,UFO Gaming,UFO,ufo-gaming,Max,gaming platform,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+294,Radio Caca,RACA,radio-caca,Max,gaming platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+295,Boba Network,BOBA,boba-network,Max,multichain L2,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+296,MetisDAO,METIS,metis-token,Max,layer 2,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+297,Starlink,STARL,starlink,Max,nft gaming platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+298,OpenDAO,SOS,opendao,Max,"bridge, DEX, lending",EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+299,Veritaseum,VERI,veritaseum,Max,research network with different services,EEP22NT01,Access Token,,,,,,,,,,,,,,,,,,,
+300,Vulcan Forged PYR,PYR,vulcan-forged,Max,nft gaming platform,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+301,RMRK,RMRK,rmrk,Max,NFT platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+302,Braintrust,BTRST,braintrust,Max,job finding platform,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+303,Wilder World,WILD,wilder-world,Max,metaverse platform,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+304,HyperDAO,HDAO,hyperdao,Max,social DAO,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+305,Qredo,QRDO,qredo,Max,custody protocol,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+306,Humanscape,HUM,humanscape,Max,not found,,,,,,,,,,,,,,,,,,,,,
+307,Circuits of Value,COVAL,circuits-of-value,Max,nft marketplace,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+308,MX TOKEN,MX,mx-token,Max,"financial products, options, futures, etc., CEX coin",EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+309,Merit Circle,MC,merit-circle,Max,"L1 gaming blockchain, focused on gaming, Avalanche subnet",,Governance Token,,,,,,,,,,,,,,,,,,,
+310,Wrapped NCG (Nine Chronicles Gold),WNCG,wrapped-ncg,Max,web3 game,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+311,ConstitutionDAO,PEOPLE,constitutiondao,Max,project that tried to buy the US Constitution from the Sothebys auction,EEP22NT03,Ownership Token,,,,,,,,,,,,,,,,,,,
+312,MXC,MXC,mxc,Max,decentralised IOT network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+313,Chainbing,CBG,chainbing,Max,Decentralized Data Centers,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+314,ICHI,ICHI,ichi-farm,Max,Market Making on Uniswap V3,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+315,VVS Finance,VVS,vvs-finance,Max,"various financial services, swap, yield farming etc.",EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+316,Aurora,AURORA,aurora-near,Max,sidechain,,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+317,Beta Finance,BETA,beta-finance,Max,"lending, borrowing",EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+318,Maple,MPL,maple,Max,"institutional lending platform; On Maple, credit professionals manage fast-flowing lending businesses where capital is syndicated and lent to institutional borrowers to fund business growth and operations. Maple is the only on-chain marketplace focused exclusively on serving Institutional and Individual Accredited Investors with high-quality lending opportunities which suit their liquidity, risk and return requirements.",EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+319,API3,API3,api3,Max,"decentralised APIs. dAPIs are API3's first-party price reference data feeds that allow dApps on 10 networks (and counting) to connect to real-time asset price data, including crypto and forex prices.",EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+320,1eco,1ECO,1eco,Max,"1eco's ecosystem will closely connect with reality in order to encourage green energy production, reduce harmful emissions, induce the use of smart e-mobility, provide small business owners and brands with solutions to promote and manage their customers equally and economically, and collect various healthcare data to be used to enhance human life.",EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+321,Wirex Token,WXT,wirex,Max,web3 neo bank,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+322,Threshold,T,threshold-network-token,Max,L1 bridge between bitcoin & DeFi,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+323,LooksRare,LOOKS,looksrare,Max,nft marketplace,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+324,AVINOC,AVINOC,avinoc,Max,AVINOC is a THINK THANK and a tokenization company dedicated to integrating new technologies in aviation. It’s driving change and transformation throughout the entire industry.,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+325,Project Galaxy,GAL,project-galaxy,Max,"Galxe aims to build a permissionless, open, and collaborative credential data network",EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+326,DEAPcoin,DEP,deapcoin,Max,nft gaming platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+327,XSGD,XSGD,xsgd,Max,singapore dollar pegged stablecoin,EEP21PP01ZZZ,Other Fiat-Pegged Payment Token,,,,,,,,,,,,,,,,,,,
+328,Liquity,LQTY,liquity,Max,"lending borrowing; Liquity's secondary token, LQTY, is not a governance token. Instead, it is used to capture 100% of the revenue generated by the Liquity protocol. This revenue is distributed to all stakers of LQTY.",EEP22NT03,Ownership Token,,,,,,,,,,,,,,,,,,,
+329,Locus Chain,LOCUS,locus-chain,Max,Alt L1 network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+330,Propy,PRO,propy,Max,real estate platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+331,Origin Dollar,OUSD,origin-dollar,Max,stablecoin,EEP21PP01USD,USD-Pegged Payment Token,,,,,,,,,,,,,,,,,,,
+332,STP,STPT,stp-network,Max,dao management platform,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+333,Terran Coin,TRR,terran-coin,Max,nft marketplace,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+334,Ribbon Finance,RBN,ribbon-finance,Max,"derivatives, options, lending",EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+335,DeXe,DEXE,dexe,Max,dao management platform,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+336,HI,HI,hi-dollar,Max,"neobank, credit card",EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+337,Axelar,AXL,axelar,Max,cross-chain communication,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+338,Hashflow,HFT,hashflow,Max,DEX,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+339,Ethereum,ETH,ethereum,Max,"Ethereum is a global, open-source platform for decentralized applications.",EEP22TU01,Settlement Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS41BC,Blockchain-Native Token,LLC31,No-Claim Token,LIT62DL,Distributed Ledger Protocol,REU51UT,Utility Token,EMO91,Reward,EMS82IF,Inflationary,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+340,Binance Coin,BNB,binancecoin,Max,The native token of the Binance cryptocurrency exchange.,EEP22TU02,Settlement and Access Token,EIN06EX,"Exchange, Trading and Settlement",TTS41BC,Blockchain-Native Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF03,Other BFT (Tendermint),RTA72,New Asset Token,Y
+341,Binance USD,BUSD,binance-usd,Marlene,Highly regulated 1:1 USD-backed crypto stablecoin.,EEP21PP01USD,USD-Pegged Payment Token,EIN06PS,Payment Services and Infrastructure,TTS42BN01,Binance BEP-2 Standard Token,LLC32,Relative Rights Token,LIT61PV,Private Sector Legal Entity,REU51EM12,Non-Authorized Significant E-Money Token,EMO92,Sale,EMS82DC,Discretionary,Depends on the ledger,Depends on the ledger,RTA71,Conventional Asset Tokens,Y
+342,Bitcoin Cash,BCH,bitcoin-cash,Albert,Cheaper and faster version of Bitcoin.,EEP21UP,Unpegged Payment Token,EIN06PS,Payment Services and Infrastructure,TTS41BC,Blockchain-Native Token,LLC31,No-Claim Token,LIT62DL,Distributed Ledger Protocol,REU51ZZ,Other In-Scope Crypto Asset,EMO91,Reward,EMS81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+343,Polygon,MATIC,matic-network,Nick,Ethereum's Internet of Blockchains.,EEP22TU03,Settlement and Governance Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS41BC,Blockchain-Native Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM71PS,Proof of Stake,RTA72,New Asset Token,N
+344,Crypto.com Coin,CRO,crypto-com-chain,Aavneet,Buy crypto at true cost.,EEP22TU02,Settlement and Access Token,EIN06EX,"Exchange, Trading and Settlement",TTS41BC,Blockchain-Native Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF03,Other BFT (Tendermint),RTA72,New Asset Token,N
+345,Holo,HOT,holotoken,Albert,"Holochain delivers the promises of blockchain with a mashup of proven tech that provides self-owned data, a distributed database, and peer accountability.",EEP22TU01,Settlement Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS41BC,Blockchain-Native Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82DF,Deflationary,TCM73GP02,Other DAG,RTA72,New Asset Token,Y
+346,Fantom,FTM,fantom,Albert,DAG-based smart contract platform for DeFi services,EEP22TU03,Settlement and Governance Token,EIN06DF05,Other Decentralized Finance (DeFi),TTS41DG,DAG-Native Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72ZZ,Other Hybrid,RTA72,New Asset Token,Y
+347,Ankr,ANKR,ankr,Marlene,Web 3.0 infrastructure - Blockchain nodes & APIs,EEP22TU03,Settlement and Governance Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS41BC,Blockchain-Native Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof of Work,RTA72,New Asset Token,Y
+348,SKALE Network,SKL,skale,Albert,,EEP22TU02,Settlement and Access Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS42ET99,Other Ethereum Application Layer Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM71PS,Proof of Stake,RTA72,New Asset Token,N
+349,Storj,STORJ,storj,Nick,Decentralized cloud data storage that aims to be more efficient than centrelized cloud computing,EEP22TU01,Settlement Token,EIN05DA05,"Other Software, Data Storage and Processing",TTS41BC,Blockchain-Native Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM71ZZ,Other Proof based,RTA72,New Asset Token,N
+350,Stratis,STRAX,stratis,Prashant,,EEP22TU03,Settlement and Governance Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS41BC,Blockchain-Native Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82IF,Inflationary,TCM71PS,Proof of Stake,RTA72,New Asset Token,N
+351,Prometeus,PROM,prometeus,Jan,Celebrities can create their own coin which then shall gives followers a means for interaction with their favourite celebrities.,EEP22TU02,Settlement and Access Token,EIN05DA03,Media and Social Media,TTS42BN02,Binance BEP-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Delegated Proof of Stake,RTA72,New Asset Token,Y
+352,Fetch.ai,FET,fetch-ai,Aavneet,"Building an open access, tokenized, decentralized machine learning network to enable smart infrastructure built around a decentralized digital economy.",EEP22TU03,Settlement and Governance Token,EIN05DA01,"Artificial Intelligence (AI), Predictive Analytics, and Big Data",TTS41BC,Blockchain-Native Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82IF,Inflationary,TCM73BF03,Other BFT (Tendermint),RTA72,New Asset Token,N
+353,Band Protocol,BAND,band-protocol,Prashant,Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts.,EEP22TU03,Settlement and Governance Token,EIN05MS,"Decentralized Data, Oracles and Infrastructure",TTS41BC,Blockchain-Native Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF03,Other BFT (Tendermint),RTA72,New Asset Token,Y
+354,Reef,REEF,reef,Marlene,"Blockchain for DeFi, NFT & Gaming",EEP22TU03,Settlement and Governance Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS42ZZ,Other Application Layer Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82IF,Inflationary,Depends on the ledger,Depends on the ledger,RTA72,New Asset Token,Y
+355,Uquid Coin,UQC,uquid-coin,Magda,UQC is a decentralized virtual currency based on the ERC20 Token,EEP22TU02,Settlement and Access Token,EEP22TU02,Other Decentralized Finance (DeFi),EIN06DF05,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS80,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+356,Cartesi,CTSI,cartesi,Jan,Cartesi offers a bridge between standard programming and blockchain,EEP22TU02,Settlement and Access Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS41BC,Blockchain-Native Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM71PS,Proof of Stake,RTA72,New Asset Token,Y
+357,Serum,SRM,serum,Albert,DEX & DeFi ecosystem build on Solana,EEP22TU03,Settlement and Governance Token,EIN06DF01,"Decentralized Exchanges, Markets and Market Making",TTS42ZZ,Other Application Layer Token,LLC31,No-Claim Token,LIT62AL,Application Layer Protocol,REU51UT,Utility Token,EMO92,Sale,EMS82DF,Deflationary,TCM72ZZ,Other Hybrid,RTA72,New Asset Token,Y
+358,NKN,NKN,nkn,Aavneet,"NKN, or New Kind of Network, is an open-source protocol for public blockchain-based peer-to-peer Networks to share network bandwidth and Internet connectivity.",EEP22TU03,Settlement and Governance Token,EIN05DA02,"Internet of Things (IoT), Smart Infrastructures, and Connectivity",TTS41BC,Blockchain-Native Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+359,Celer Network,CELR,celer-network,Albert,"layer-2 scaling platform that brings fast, secure and low-cost blockchain applications on Ethereum, Polkadot and other blockchains to mass adoption",EEP22TU02,Settlement and Access Token,EIN06DF05,Other Decentralized Finance (DeFi),TTS42ZZ,Other Application Layer Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Delegated Proof of Stake,RTA72,New Asset Token,Y
+360,Divi,DIVI,divi,Nick,Divi wants to make crypto mass adopted by providing a user friendly interface called divi app to exchange and stake tokens,EEP22TU03,Settlement and Governance Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS41BC,Blockchain-Native Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO93,Reward,EMS82IF,Inflationary,TCM72DS,Proof of Stake,RTA72,New Asset Token,N
+361,Mirror Protocol,MIR,mirror-protocol,Marlene,Enabling the creation of synthetic assets,EEP22TU03,Settlement and Governance Token,EIN06DF03,"Decentralized Derivatives, Syntethic Assets and Insuarance",TTS42ZZ,Other Application Layer Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO93,Airdrop,EMS81,Fixed,TCM73BF03,Other BFT (Tendermint),RTA72,New Asset Token,Y
+362,Clover Finance,CLV,clover-finance,Nick,Cross chain interoperability,EEP22TU03,Settlement and Governance Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS42ZZ,Other Application Layer Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM72ZZ,Other Hybrid,RTA72,New Asset Token,Y
+363,Audius,AUDIO,audius,Albert,Solana-based decentralized music streaming protocol,EEP22TU03,Settlement and Governance Token,EIN08AC,Arts and Culture,TTS41BC,Blockchain-Native Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM71PS,Proof of Stake,RTA72,New Asset Token,Y
+364,CENNZnet,CENNZ,centrality,Natalie,CENNZnet is a New Zealand built public blockchain and Application platform that puts great user experience first.,EEP22TU03,Settlement and Governance Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS41BC,Blockchain-Native Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM71PS,Proof of Stake,RTA72,New Asset Token,N
+365,Render Token,RNDR,render-token,Natalie,"RNDR is a distributed GPU rendering network built on top of the Ethereum blockchain, aiming to connect artists and studios in need of GPU compute power with mining partners willing to rent their GPU capabilities out.",EEP22TU03,Settlement and Governance Token,EIN01,Agriculture and Mining,,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM72DS,Proof-of-Work,RTA72,New Asset Token,N
+366,Polymath,POLY,polymath,Nick,"Polymath is the first decentrelized network, specialized for security tokenization.",EEP22TU03,Settlement and Governance Token,EIN06BS,"Banking, Custody and Financing Services",,,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM72DS,Proof-of-Work,RTA72,New Asset Token,N
+367,Everipedia,IQ,everipedia,Marlene,The Blockchain Encyclopedia,EEP22TU02,Settlement and Access Token,EIN09,"Public Administration, Education, Healthcare and Social Assistance",TTS42EO,EOS Application Layer Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO93,Airdrop,EMS81,Fixed,TCM72DS,Delegated Proof of Stake,RTA72,New Asset Token,Y
+268,aelf,ELF,aelf,Magda,"aelf is the most advanced and secure blockchain cloud infrastructure with segregate, unlimitedly scalable cloud computing networks, leading the decentralized future.",EEP22TU03,Settlement and Governance Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS41BC,Blockchain-Native Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,"
+TCM72DS",Delegated Proof of Stake,RTA72,New Asset Token,Y
+369,Elitium,EUM,elitium,Magda,"The platform offers a basket of products, including decentralized finance (DeFi) savings plans, cryptocurrency staking, Bitcoin and Ethereum cloud mining services, and a dedicated NFT marketplace.",EEP22TU01,Settlement Token,EIN06DF04,"Decentralized Data, Oracles and Infrastructure",TTS41BC,Blockchain-Native Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM71PS,Proof of Stake,RTA72,New Asset Token,N
+370,BORA,BORA,bora,Albert,,EEP22TU01,Settlement Token,EIN08ES,"Entertainment, Sports and Gaming",TTS42ZZ,Other Application Layer Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF03,Other BFT,RTA72,New Asset Token,N
+371,Velas,VLX,velas,Magda,Valas Finance stock is currently PancakeSwap (V2).,EEP22TU02,Settlement and Access Token,EIN06DF01,"Decentralized Exchanges, Markets and Market Making",TTS42BN02,Binance BEP-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82IF,Inflationary,TCM71ZZ,Other Proof based,RTA72,New Asset Token,N
+372,XinFin Network,XDC,xdce-crowd-sale,Marlene,Enterprise Blockchain For Global Trade and Finance,EEP22TU03,Settlement and Governance Token,EIN05DA03,"Cloud Computing, Distributed Systems, and Decentralized Applications",TTS41BC,Blockchain-Native Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS82IF,Fixed,TCM71ZZ,Other Proof based,RTA72,New Asset Token,N
+373,Egoras,EGR,empty,Nick,Egoras is a micro-financing platforrm that offers non-colletorized credits to smaller firms.,EEP22TU03,Settlement and Governance Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EM81,Fixed,TCM71PW,Proof of Work,RTA72,New Asset Token,N
+374,The Transfer Token,TTT,empty,Jan,We provide the best rates for overseas remittance and foreign currency exchange.,EEP22TU02,Settlement and Access token,EIN06EX,"Exchange, Trading and Settlement",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,N
+375,INO COIN,INO,empty,Nick,INO Coin is a decentrelized crowdfunding platform for Crypto oriented fundings like ICOs with its INO token governing the system,EEP22TU03,Settlement and Governance Token,EIN06DF02,"Decentralized Lending, Saving and Asset Management",TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,N
+376,Venus BNB,vBNB,empty,Magda,The native token of the Binance cryptocurrency exchange.,EEP22TU01,Settlement Token,EIN06DF05,Other Decentralized Finance (DeFi),TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO94,Wrapping,EMS82DC,Discretionary,TCM71PS,Proof of Stake,RTA72,New Asset Token,N
+377,Doctors Coin,DRS,empty,Magda,MEDICAL BEAUTY INFLUENCERS BEYOND BORDERS,EEP22TU01,Settlement Token,EIN05MS,Media and Social Media,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,N
+378,Rakon,RKN,empty,Nick,"Raken network aims to provide a decentrelized alternative for satellites, navigation and communication systems with RKN powering their smart contracts.",EEP22TU03,Settlement and Governance Token,EIN05TC,Telecommunications and Communications,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO91,Reward,EMS81,Fixed,TCM72DS,Proof-of-Work,RTA72,New Asset Token,N
+379,CRYPTO20,C20,empty,Aavneet,The world's first tokenized crypto index fund.,EEP23FD,Fund Token,EIN06AM,Investment and Asset Management,TTS42ET01,Ethereum ERC-20 Standard Token,LLC31,No-Claim Token,LIT61PV,Private Sector Legal Entity,REU51UT,Utility Token,EMO92,Sale,EMS81,Fixed,TCM73BF02,Proof of Work,RTA72,New Asset Token,N
+380,Double-A Chain,AAC,acute-angle-cloud,Noah,Alt L1 Network,,,,,,,,,,,,,,,,,,,,,
+381,CoinEx,CET,coinex-token,Noah,Alt L1 Network,,,,,,,,,,,,,,,,,,,,,
+382,BitKan,KAN,kan,Noah,ICO scam not realized,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+383,Cover Protocol,COVER,cover-protocol,Noah,insurance platform - had to shut down,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+384,Alpha Coin,ALPHA,alphacoin,Noah,open world game,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+385,T,T,t,Noah,scam,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+386,Pickle Finance,PICKLE,pickle-finance,Noah,yield aggregator with 2 tokens. this had no governance rights,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+387,AllianceBlock Nexera,NXRA,allianceblock-nexera,Noah,Alt L1 Network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+388,Invictus Hyperion Fund,IHF,invictus-hyprion-fund,Noah,tokenized VC fund ,EEP23FD,Fund Token,,,,,,,,,,,,,,,,,,,
+389,Etherisc DIP,DIP,etherisc,Noah,insurance protocol - say they want to do/do governance but I could not find anything,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+390,DexTools,DEXT,dextools,Noah,DEX - no governance yet but enhanced acces for big holders,EEP22TU02,Settlement and Access token,,,,,,,,,,,,,,,,,,,
+391,BitMart,BMX,bitmart-token,Noah,CEX token,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+392,Cryptoindex.com 100,CIX100,cryptoindex-io,Noah,Crypto Index token,EEP23FD,Fund Token,,,,,,,,,,,,,,,,,,,
+393,Dego Finance,DEGO,dego-finance,Noah,offers a range of products,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+394,PERL.eco,PERL,perlin,Noah,Alt L1 Network for carbon trading,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+395,Saitama,SAITAMA,saitama-inu,Noah,DEX & debit card,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+396,YfDAI.finance,YF-DAI,yfdai-finance,Noah,DeFi platform with different products,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+397,Gem Exchange and Trading,GXT,gem-exchange-and-trading,Noah,marketplace platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+398,Pendle,PENDLE,pendle,Noah,yield trading dApp,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+399,XenoRunToken,XRT,xenoruntoken,Noah,web3 game,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+400,BiFi,BIFI,bifi,Noah,lending borrowing,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+401,Enigma,ENG,enigma,Noah,Alt L1 Network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+402,88mph,MPH,88mph,Noah,lending dApp,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+403,BidiPass,BDP,bidipass,Noah,not found - chat gpt says settlement,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+404,GameCredits,GAME,gamecredits,Noah,game on polygon,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+405,XCELTOKEN PLUS,XLAB,xceltoken-plus,Noah,travel page,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+406,concertVR,CVT,concertvr,Noah,not found  ,,,,,,,,,,,,,,,,,,,,,
+407,Glitch Protocol,GLCH,glitch-protocol,Noah,Alt L1 Network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+408,BOSagora,BOA,bosagora,Noah,Alt L1 Network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+409,Seele,SEELE,seele,Noah,Alt L1 Network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+410,Highstreet,HIGH,highstreet,Noah,gaming infrastructure,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+411,Zynecoin,ZYN,zynecoin,Noah,Alt L1 Network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+412,ONUS,ONUS,onus,Noah,Alt L1 Network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+413,Ripio Credit Network,RCN,ripio-credit-network,Noah,not found  ,,,,,,,,,,,,,,,,,,,,,
+414,Libra Credit,LBA,libra-credit,Noah,not found  ,,,,,,,,,,,,,,,,,,,,,
+415,King DAG,KDAG,kdag,Noah,Alt L1 Network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+416,Nestree,EGG,nestree,Noah,web2 marketplace,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+417,Flux,FLUX,flux,Noah,Alt L1 Network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+418,Zus,ZCN,0chain,Noah,Alt L1 Network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+419,TriumphX,TRIX,triumphx,Noah,project on TRON,,,,,,,,,,,,,,,,,,,,,
+420,Ecoreal Estate,ECOREAL,ecoreal-estate,Noah,not found  ,,,,,,,,,,,,,,,,,,,,,
+421,GoWithMi,GMAT,gowithmi,Noah,not found  ,,,,,,,,,,,,,,,,,,,,,
+422,Bella Protocol,BEL,bella-protocol,Noah,now only on Era?,,,,,,,,,,,,,,,,,,,,,
+423,BASIC,BASIC,basic,Noah,custody service,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+424,dForce,DF,dforce-token,Noah,Defi platform with different products,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+425,Throne,THN,throne,Noah,"not found, SCAM",,,,,,,,,,,,,,,,,,,,,
+426,S4FE,S4F,s4fe,Noah,not found  ,,,,,,,,,,,,,,,,,,,,,
+427,League of Kingdoms,LOKA,league-of-kingdoms,Noah,"HOW IT WILL BE WITH MOST VC INVESTED PROJECTS: Governance features are indefinitely delayed due to regulatory uncertainties. Instead, a $LOKA pledging feature has been released in the Q1 of 2023. ",EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+428,Genopets,GENE,gene,Noah,governance plans but not yet,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+429,ODEM,ODE,odem,Noah,tutoring platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+430,Crypterium,CRPT,crypterium,Noah,DeFi CeFi Mobile Wallet,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+431,VIDY,VIDY,vidy,Noah,Ad network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+432,Rook,ROOK,rook,Noah,infrastructure,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+433,PumaPay,PMA,pumapay,Noah,payment,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+434,Dejitaru Tsuka,TSUKA,dejitaru-tsuka,Noah,no info,,,,,,,,,,,,,,,,,,,,,
+435,Crypto Village Accelerator CVAG,CVAG,crypto-village-accelerator,Noah,scam pump dump not relevant,,,,,,,,,,,,,,,,,,,,,
+436,Xfinance,XFI,xfinance,Noah,no info,,,,,,,,,,,,,,,,,,,,,
+437,SWFTCOIN,SWFTC,swftcoin,Noah,Alt L1 Network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+438,Pillar,PLR,pillar,Noah,centralized wallet,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+439,Arcblock,ABT,arcblock,Noah,Alt L1 Network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+440,Contracoin,CTCN,contracoin,Noah,cefi usind their token as a form of payment - absolute horseshit,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+441,Smart Valor,VALOR,smart-valor,Noah,CeFi stuff,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+442,Global Digital Content,GDC,global-digital-content,Noah,Alt L1 Network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+443,Aurora,AURORA,aurora,Noah,Alt L1 Network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+444,Sentivate,SNTVT,sentivate,Noah,Alt L1 Network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+445,Marlin,POND,marlin,Noah,Alt L1 Network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+446,Victoria VR,VR,victoria-vr,Noah,web3 game,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+447,Swerve,SWRV,swerve-dao,Noah,got exploited (governance attack),EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+448,Huobi Pool,HPT,huobi-pool-token,Noah,project on another network,,,,,,,,,,,,,,,,,,,,,
+449,Juggernaut,JGN,juggernaut,Noah,on binance smart chain,,,,,,,,,,,,,,,,,,,,,
+450,Aavegotchi,GHST,aavegotchi,Noah,project on another network,,,,,,,,,,,,,,,,,,,,,
+451,BoringDAO [OLD],BOR,boringdao-[old],Noah,wrapper protocol,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+452,Dentacoin,DCN,dentacoin,Noah,dentist coin??,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+453,APIX,APIX,apix,Noah,Alt L1 Network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+454,HitChain,HIT,hitchain,Noah,Alt Network & not found,,,,,,,,,,,,,,,,,,,,,
+455,Euro Coin,EUROC,euro-coin,Noah,Euro Stable Coin,EEP21PP01EUR,EUR-Pegged Payment Token,,,,,,,,,,,,,,,,,,,
+456,Merit Circle,MC,mci-coin,Noah,gaming DAO,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+457,DeRace,DERC,derace,Noah,game  ,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+458,Sportzchain,SPN,sportzchain,Noah,low mcap no relevance,,,,,,,,,,,,,,,,,,,,,
+459,PolySwarm,NCT,polyswarm,Noah,no decentralized project,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+460,Levolution,LEVL,levolution,Noah,,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+461,Po.et,POE,poet,Noah,ICO scam ,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+462,Dark Matter,DMT,darkmatter,Noah,project on another network,,,,,,,,,,,,,,,,,,,,,
+463,Finexbox,FNB,finexbox-token,Noah,not found,,,,,,,,,,,,,,,,,,,,,
+464,TrueFi,TRU,truefi,Noah,DeFi dApp,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+465,TokenPocket Token,TPT,token-pocket,Noah,wallet,EEP22TU02,Settlement and Access token,,,,,,,,,,,,,,,,,,,
+466,COMBO,COMBO,cocos-bcx,Noah,project on another network,,,,,,,,,,,,,,,,,,,,,
+467,APY.Finance,APY,apy-finance,Noah,not found,,,,,,,,,,,,,,,,,,,,,
+468,Obyte,GBYTE,byteball,Noah,Alt L1 Network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+469,Carbon Protocol,SWTH,switcheo,Noah,Alt L1 Network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+470,SUKU,SUKU,suku,Noah,nothing realized yet,,,,,,,,,,,,,,,,,,,,,
+471,FOAM,FOAM,foam-protocol,Noah,,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+472,adChain,ADT,adtoken,Noah,ICO pump dump noting found,,,,,,,,,,,,,,,,,,,,,
+473,BABB,BAX,babb,Noah,wallet,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+474,DSLA Protocol,DSLA,stacktical,Noah,risk platform,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+475,Coinweb,CWEB,coinweb,Noah,Alt L1 Network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+476,PancakeSwap,CAKE,pancakeswap-token,Noah,DEX,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+477,REVV,REVV,revv,Noah,game on another network,EEP22TU02,Settlement and Access token,,,,,,,,,,,,,,,,,,,
+478,Vectorspace AI,VXV,vectorspace,Noah,centralized service,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+479,Revolution Populi,RVP,revolution-populi,Noah,Alt L1 Network,,,,,,,,,,,,,,,,,,,,,
+480,Cajutel,CAJ,cajutel,Noah,ICO pump dump noting found,,,,,,,,,,,,,,,,,,,,,
+481,Base Protocol,BASE,base-protocol,Noah,failed peg to crypto mcap,,investment token?,,,,,,,,,,,,,,,,,,,
+482,Cobak,CBK,cobak-token,Noah,nothing found,,,,,,,,,,,,,,,,,,,,,
+483,Eminer,EM,eminer,Noah,infrastructure,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+484,TON Community,TON,tontoken,Noah,nothing found,,,,,,,,,,,,,,,,,,,,,
+485,Aleph.im,ALEPH,aleph,Noah,infrastructure,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+486,SALT,SALT,salt,Noah,ICO pump dump ,,,,,,,,,,,,,,,,,,,,,
+487,USDK,USDK,usdk,Noah,stablecoin (failing),EEP21PP01USD,USD-Pegged Payment Token,,,,,,,,,,,,,,,,,,,
+488,Furucombo,COMBO,furucombo,Noah,DeFi protocol,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+489,Maximus TRIO,trio,maximus-trio,Noah,travel booking platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+490,ELYSIA,el,elysia,Noah,weird aspects to it - no decentralized product,,,,,,,,,,,,,,,,,,,,,
+491,Digitex,dgtx,digitex-futures-exchange,Noah,betting,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+492,BountyMarketCap,bmc,bountymarketcap,Noah,nothing found,,,,,,,,,,,,,,,,,,,,,
+493,mStable Governance: Meta,mta,meta,Noah,stablecoin protocol,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+494,Alpha Quark,aqt,alpha-quark-token,Noah,governance UNCLEAR! only 1 vote 2 years ago,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+495,Monolith,tkn,tokencard,Noah,wallet & debit card,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+496,CryptoFranc,xchf,cryptofranc,Noah,stable coin,EEP21PP01CHF,CHF-Pegged Payment Token,,,,,,,,,,,,,,,,,,,
+497,Karma DAO,karma,karma-dao,Noah,nothing found,,,,,,,,,,,,,,,,,,,,,
+498,Hermez Network,hez,hermez-network-token,Noah,L2,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+499,Bibox,bix,bibox-token,Noah,CEX,EEP22TU02,Settlement and Access token,,,,,,,,,,,,,,,,,,,
+500,LockTrip,loc,lockchain,Noah,travel booking platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+501,Polytrade,trade,polytrade,Noah,on polygon,,,,,,,,,,,,,,,,,,,,,
+502,Loom Network (NEW),loom,loom-network-new,Noah,Alt L1 network Sidechain,,,,,,,,,,,,,,,,,,,,,
+503,CargoX,cxo,cargox,Noah,document sharing platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+504,Vite,vite,vite,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+505,BTRIPS,btr,btrips,Noah,marketplace,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+506,DuckDaoDime,ddim,duckdaodime,Noah,launchpad,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+507,GroveCoin,grv,grove,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+508,LINA,lina,lina,Noah,LUNA equivalent - crashed. nothing more found,,,,,,,,,,,,,,,,,,,,,
+509,Electronic USD,eusd,electronic-usd,Noah,stablecoin,EEP21PP01EUR,EUR-Pegged Payment Token,,,,,,,,,,,,,,,,,,,
+510,Mithril,mith,mithril,Noah,nothing concrete found,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+511,Twitfi,twt,twitfi,Noah,twitter game,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+512,Lyra Finance,lyra,lyra-finance,Noah,options backend,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+513,Digix Gold,dgx,digix-gold,Noah,gold pegged token,EEP21PP02,Asset-Pegged Payment Token,,,,,,,,,,,,,,,,,,,
+514,Everest,id,everid,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+515,Elastos,ela,elastos,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+516,FlexMeme,flex,flexmeme,Noah,not relevant 1M mcap peak,,,,,,,,,,,,,,,,,,,,,
+517,Everex,evx,everex,Noah,ICO pump dump noting found,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+518,Auctus,auc,auctus,Noah,DeFi options - looks dead,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+519,XCAD Network,xcad,xcad-network,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+520,Fasttoken,ftn,fasttoken,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+521,Youwho,you,youwho,Noah,service platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+522,Neutrino System Base,nsbt,neutrino-system-base-token,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+523,DAD,dad,decentralized-advertising,Noah,on another network,,,,,,,,,,,,,,,,,,,,,
+524,Waltonchain,wtc,waltonchain,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+525,YF Link,yfl,yflink,Noah,project not on the blockchain,,,,,,,,,,,,,,,,,,,,,
+526,Cratos,crts,cratos,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+527,Blockzero Labs,xio,xio,Noah,protocol development DAO,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+528,Octo,octo,octo,Noah,LSD nothing live yet,,,,,,,,,,,,,,,,,,,,,
+529,Santiment Network,san,santiment-network-token,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+530,BaaSid,baas,baasid,Noah,nothing found,,,,,,,,,,,,,,,,,,,,,
+531,Atomic Wallet Coin,awc,atomic-wallet-coin,Noah,wallet,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+532,Raiden Network,rdn,raiden-network,Noah,off chain payment provider,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+533,TokenClub,tct,tokenclub,Noah,websites registry??,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+534,RAMP [OLD],ramp,ramp,Noah,DeFi protocol,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+535,TradeWix,wix,tradewix,Noah,no relevance too small,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+536,Wrapped Beacon ETH,wbeth,wrapped-beacon-eth,Noah,wrapped eth,,,,,,,,,,,,,,,,,,,,,
+537,FreeRossDAO,free,freerossdao,Noah,,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+538,Quickswap [OLD],quick,quick,Noah,DEX,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+539,DeFine,dfa,define,Noah,no info,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+540,QASH,qash,qash,Noah,migrated away from ethereum + centralized service which crashed,,,,,,,,,,,,,,,,,,,,,
+541,Cryptaur,cpt,cryptaur,Noah,ICO pump dump noting found,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+542,EncrypGen,dna,encrypgen,Noah,ICO pump dump noting found,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+543,Bluzelle,blz,bluzelle,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+544,ForTube,for,force-protocol,Noah,defi protocol,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+545,TemDAO,tem,temdao,Noah,"not relevant, too small",,,,,,,,,,,,,,,,,,,,,
+546,Hakka Finance,hakka,hakka-finance,Noah,no governance found,,,,,,,,,,,,,,,,,,,,,
+547,SingularDTV,sngls,singulardtv,Noah,ICO pump dump noting found,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+548,SelfKey,key,selfkey,Noah,no governance through token,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+549,Whiteheart,white,whiteheart,Noah,wrapper,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+550,bZx Protocol,bzrx,bzx-protocol,Noah,"no info, websites not working",,,,,,,,,,,,,,,,,,,,,
+551,Aura Finance,aura,aura-finance,Noah,yield protocol,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+552,Conscious Value Network,cvnt,content-value-network,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+553,OST,ost,simple-token,Noah,ICO pump dump noting found,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+554,Vesper Finance,vsp,vesper-finance,Noah,DeFi protocol,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+555,DIGG,digg,digg,Noah,"bitcoin pegged token, failed",EEP21PP02,Asset-Pegged Payment Token,,,,,,,,,,,,,,,,,,,
+556,Gods Unchained,gods,gods-unchained,Noah,game built on immutableX,,,,,,,,,,,,,,,,,,,,,
+557,Hoge Finance,hoge,hoge-finance,Noah,DAO building projects,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+558,Banana,banana,banana,Noah,game  ,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+559,ASTA,asta,asta,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+560,Nebulas,nas,nebulas,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+561,saffron.finance,sfi,saffron-finance,Noah,defi protocol,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+562,AgaveCoin,agvc,agavecoin,Noah,ICO pump dump noting found & too small,,,,,,,,,,,,,,,,,,,,,
+563,CyberTronchain,ctc,cybertronchain,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+564,Pluton,plu,pluton,Noah,CeFi app reward tokens,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+565,LGCY Network,lgcy,lgcy-network,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+566,humanDAO,hdao,humandao,Noah,social DAO,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+567,Tiger King Coin,tking,tiger-king,Noah,no info,,,,,,,,,,,,,,,,,,,,,
+568,Frontier,front,frontier-token,Noah,wallet,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+569,Boson Protocol,boson,boson-protocol,Noah,DAO since 1 year...,,,,,,,,,,,,,,,,,,,,,
+570,Firmachain,fct,firmachain,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+571,Linkeye,let,linkeye,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+572,VIDT DAO,vidt,vidt-dao,Noah,say they have governance but they don't. looks like a scam,,,,,,,,,,,,,,,,,,,,,
+573,OAX,oax,openanx,Noah,no info,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+574,MUX Protocol,mcb,mcdex,Noah,governance and protocol on Arbitrum,,,,,,,,,,,,,,,,,,,,,
+575,NFTX,nftx,nftx,Noah,NFT marketplace & etc.,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+576,Zap,zap,zap,Noah,"oracle, nfts, defi protocol",EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+577,Bubblefong,bbf,bubblefong,Noah,no governance yet. gaming,,,,,,,,,,,,,,,,,,,,,
+578,Vivid Labs,vid,videocoin,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+579,Bitgert,brise,bitrise-token,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+580,Bounce,auction,auction,Noah,governance but no votes...,,,,,,,,,,,,,,,,,,,,,
+581,1World,1wo,1world,Noah,advertising platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+582,FUSION,fsn,fsn,Noah,ICO pump dump noting found,,,,,,,,,,,,,,,,,,,,,
+583,AIOZ Network,aioz,aioz-network,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+584,Morpheus Network,mnw,morpheus-network,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+585,Open Campus,edu,edu-coin,Noah,on bnb smart chain,,,,,,,,,,,,,,,,,,,,,
+586,Guild of Guardians,gog,guild-of-guardians,Noah,on immutableX,,,,,,,,,,,,,,,,,,,,,
+587,MANTRA,om,mantra-dao,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+588,Unifi Protocol DAO,unfi,unifi-protocol-dao,Noah,defi protocol,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+589,Adshares,ads,adshares,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+590,Aeternity,ae,aeternity,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+591,mStable USD,musd,musd,Noah,stablecoin,EEP21PP01USD,USD-Pegged Payment Token,,,,,,,,,,,,,,,,,,,
+592,LA,la,latoken,Noah,CEX,EEP22TU02,Settlement and Access token,,,,,,,,,,,,,,,,,,,
+593,XMON,xmon,xmon,Noah,nft project,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+594,Time New Bank,tnb,time-new-bank,Noah,Alt L1 network,,,,,,,,,,,,,,,,,,,,,
+595,BitTorrent,btt,bittorrent,Noah,on Tron,,,,,,,,,,,,,,,,,,,,,
+596,Neumark,neu,neumark,Noah,ICO pump dump noting found,,,,,,,,,,,,,,,,,,,,,
+597,Presearch,pre,presearch,Noah,search engine not decentralized project. only token is on eth,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+598,tomiNet,tomi,tominet,Max,alternative internet,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+599,Global Coin Research,gcr,global-coin-research,Max,research platform,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+600,Bitforex,bf,bitforex,Max,CEX,EEP22NT01,Access Token,,,,,,,,,,,,,,,,,,,
+601,Shiba Predator,qom,shiba-predator,Max,meme token,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+602,SmartMesh,smt,smartmesh,Max,L1,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+603,Peercoin,ppc,peercoin,Max,L1,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+604,R,r,r,Max,stablecoin,EEP21PP01USD,USD-Pegged Payment Token,,,,,,,,,,,,,,,,,,,
+605,apM Coin,apm,apm-coin,Max,customer rewards management,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+606,AirSwap,ast,airswap,Max,swaps,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+607,PowerPool Concentrated Voting Power,cvp,concentrated-voting-power,Max,governance accumulation platform,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+608,XMax,xmx,xmax,Max,L1,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+609,Wagerr,wgr,wagerr,Max,sportsbetting,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+610,Bridge Mutual,bmi,bridge-mutual,Max,defi platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+611,SparkPoint,srk,sparkpoint,Max,"swap, learn, etc.",EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+612,Arbitrum,arb,arbitrum,Max,L2,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+613,DMM: Governance,dmg,dmm-governance,Max,not found,,,,,,,,,,,,,,,,,,,,,
+614,Milady Meme Coin,ladys,milady-meme-coin,Max,meme token,,,,,,,,,,,,,,,,,,,,,
+615,YAM,yam,yam-2,Max,yield farming,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+616,ARPA,arpa,arpa,Max,L1,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+617,IQeon,iqn,iqeon,Max,gaming platform,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+618,Cindicator,cnd,cindicator,Max,investing platform,EEP22NT01,Access Token,,,,,,,,,,,,,,,,,,,
+619,RAI Finance,sofi,rai-finance,Max,several DeFi use cases,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+620,Cult DAO,cult,cult-dao,Max,DAO,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+621,Connectico,con,connectico,Max,incubator,EEP22NT01,Access Token,,,,,,,,,,,,,,,,,,,
+622,Pepe,pepe,pepe,Max,meme token,,,,,,,,,,,,,,,,,,,,,
+623,Mancium,manc,mancium,Max,gaming,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+624,VeriDocGlobal,vdg,veridocglobal,Max,qr code protocol,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+625,UBIX Network,ubx,ubix-network,Max,L1,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+626,Moeda Loyalty Points,mda,moeda-loyalty-points,Max,banking,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+627,Sai,sai,sai,Max,stablecoin,EEP21PP01USD,USD-Pegged Payment Token,,,,,,,,,,,,,,,,,,,
+628,Deeper Network,dpr,deeper-network,Max,IOT network,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+629,Forta,fort,forta,Max,security protocol,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+630,Suterusu,suter,suterusu,Max,payment infrastructure,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+631,Opium,opium,opium,Max,derivative trading protocol,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+632,SymVerse,sym,symverse,Max,L1,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+633,LIT,lit,lit,Max,no utility,,,,,,,,,,,,,,,,,,,,,
+634,Sweatcoin (Sweat Economy),sweat,sweatcoin,Max,digital currency that is earned by physical activity such as walking or running,EEP22NT01,Access Token,,,,,,,,,,,,,,,,,,,
+635,Polybius,plbt,polybius,Max,no info,,,,,,,,,,,,,,,,,,,,,
+636,Mossland,moc,mossland,Max,"metaverse, AR, VR",EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+637,Shardus,ult,shardus,Max,L1,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+638,USDP Stablecoin,usdp,usdp,Max,stablecoin,EEP21PP01USD,USD-Pegged Payment Token,,,,,,,,,,,,,,,,,,,
+639,Wrapped Tron,wtrx,wrapped-tron,Max,L1,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+640,Swarm,bzz,swarm-bzz,Max,decentralised data storage,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+641,DeGate,dg,degate,Max,ZK Rollup DEX,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+642,Ferrum Network,frm,ferrum-network,Max,polkadot fork,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+643,VNX Exchange,vnxlu,vnx-exchange,Max,tokenized centure capital assets,EEP23,Investment Token,,,,,,,,,,,,,,,,,,,
+644,Efforce,wozx,wozx,Max,energy efficiency platform,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+645,SuperRare,rare,superrare,Max,NFT marketplace,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+646,Covalent,cqt,covalent,Max,data provider,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+647,Blocksquare,bst,blocksquare,Max,"tokenization of real estate, infrastructure",EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+648,Ruff,ruff,ruff,Max,"L1, IOT",EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+649,Yield App,yld,yield-app,Max,"nothing found, yield farming, digital wealth platform",,,,,,,,,,,,,,,,,,,,,
+650,NvirWorld,nvir,nvirworld,Max,L1,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+651,Proton,xpr,proton,Max,L1,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+652,Aave [OLD],lend,ethlend,Max,lending protocol,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+653,Dragonchain,drgn,dragonchain,Max,L1,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+654,Futureswap,fst,futureswap,Max,build on Arbitrum & Avalanche,,,,,,,,,,,,,,,,,,,,,
+655,Bridge Oracle,brg,bridge-oracle,Max,bnb chain,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+656,Realio,RIO,realio-network,Max,tokenization of real world assets,EEP22NT01,Access Token,,,,,,,,,,,,,,,,,,,
+657,Rarible,RARI,rarible,Max,NFT marketplace,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+658,Stargate Finance,STG,stargate-finance,Max,crosschain liquidity pools build on Layer 0,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+659,Nym,NYM,nym,Max,L1 privacy network,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+660,SnailMoon,SNM,snailmoon,Max,meme token,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+661,DeFIL,DFL,defil,Max,not found,,,,,,,,,,,,,,,,,,,,,
+662,Kylin Network,KYL,kylin-network,Max,"oracles for polkadot, middleware",EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+663,DeFi Pulse Index,DPI,defipulse-index,Max,index token,,,,,,,,,,,,,,,,,,,,,
+664,LCX,LCX,lcx,Max,tokenization of assets,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+665,Efinity,EFI,efinity,Max,NFT blockchain,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+666,eosDAC,EOSDAC,eosdac,Max,L1 for DAOs,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+667,MixMarvel,MIX,mixmarvel,Max,gaming ,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+668,Sirin Labs,SRN,sirin-labs-token,Max,blockchain smartphone,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+669,Decentr,DEC,decentr,Max,personal data protocol,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+670,KIMCHI.finance,KIMCHI,kimchi-finance,Max,defi platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+671,Oraichain,ORAI,oraichain-token,Max,"L1, AI APIs",EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+672,Edgeless,EDG,edgeless,Max,gaming platform,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+673,pNetwork,PNT,pnetwork,Max,cross chain protocol,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+674,DAOstack,GEN,daostack,Max,future of collaboration by enabling decentralized organizations and projects to efficiently operate at scale,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+675,CheckMate Token,CMT,checkmate-token,Max,chess platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+676,Galvan,IZE,galvan,Max,"L1, health tracking app",EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+677,Lever Network,LEV,lever-network,Max,decentralized margin trading platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+678,RSS3,RSS3,rss3,Max,information dissemination protocol,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+679,BEPRO Network,BEPRO,bepro-network,Max,bounty network,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+680,Forj,BONDLY,bondly,Max,defi platform,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+681,Rhino.fi,DVF,rhinofi,Max,wallet + financial services,EEP22TU03,Settlement and Governance Token,,,,,,,,,,,,,,,,,,,
+682,Tornado Cash,TORN,tornado-cash,Max,privacy protocol,EEP22NT02,Governance Token,,,,,,,,,,,,,,,,,,,
+683,Agoras: Currency of Tau,AGRS,agoras-currency-of-tau,Max,Layer 1 Accurate software generation with guaranteed AI safety,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+684,chrono.tech,TIME,chronobank,Max,"leverages blockchain technology to facilitate a smoother recruitment and HR process, especially around freelance and contractual work.",EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+685,Aergo,AERGO,aergo,Max,"Layer 1 blockchain. It uses a hybrid blockchain model, which combines both private and public blockchains.",EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+686,Quantstamp,QSP,quantstamp,Max,auditing firm,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+687,Sentinel Protocol,UPP,sentinel-protocol,Max,collective threat intelligence database,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+688,Game,GTC,game,Max,Gaming platform,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
+689,Hydro,HYDRO,hydro,Max,L1 GameFi,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+690,U Network,UUU,u-network,Max,L1 UGC blockchain,EEP22TU01,Settlement Token,,,,,,,,,,,,,,,,,,,
+691,The Virtua Kolect,TVK,the-virtua-kolect,Max,Gaming metaverse platform,EEP22TU02,Settlement and Access Token,,,,,,,,,,,,,,,,,,,
